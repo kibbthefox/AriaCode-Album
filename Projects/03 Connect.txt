@@ -1,0 +1,90 @@
+
+// Credits:  https://www.instagram.com/reels/DbGpxMwsixT/
+
+setcpm(21)
+
+
+
+
+let arp=arrange(
+[2, "-"],
+[24, "<[f1 a2]!2 [bb1 a2]!2 [a1 a2]!2 [bb1 a2]!2>*4"],
+)
+$: note(arp).s("casiopiano")
+  .release(0)
+  .gain(0.8)
+  .attack(0.03)
+  .decay(0.3)
+  .sustain(0.3)
+  .pan(0.4)
+
+
+
+
+let melody=arrange(
+[6, "-"],
+[16, "<a2 _ _ _ bb2 c3 a3 f3 _ _ _ _ g3 _ a3 _>*8"],
+)
+$: note(melody).s("casiofantasy")
+  .release(0.1)
+  .gain(1.7)
+  .transpose("-12")
+  .attack(0.02)
+  .decay(1.2)
+  .sustain(0)
+  .room(0.5)
+  .pan(0.6)
+
+
+
+
+let bass=arrange(
+[6, "-"],
+[18, "<[f1 f2]!2 [bb1 bb2]!2 [a1 a2]!2 [bb1 bb2]!2>*4"],
+)
+$: note(bass).release(0)
+  .transpose("-24")
+  .s("casiofantasy")
+  .dist(1)
+  .gain(0.45)
+
+
+
+
+let two=arrange(
+[6, "-"],
+[16, "< - [a4 a4] [- a4]!3 a4 c5 a4 - [a4 a4] [- a4]!3 a4 c5 d5>*8"]
+)
+$: note(two).s("triangle")
+  .release(0)
+  .gain(0.7)
+  .transpose("0")
+  .room(0.6)
+  .pan(0.4)
+
+
+
+
+let hat=arrange(
+[5, "<hh!5 - hh!2>*8"],
+[1, "<hh!5 - hh - >*8"],
+[19, "<hh!5 - hh!2>*8"],
+[1, "<hh!5 - hh - >*8"],
+)
+$: s(hat).bank("circuitsdrumtracks")
+  .gain(0.5)
+kick: s("<bd [- bd] - [- bd] [- bd] bd - - >*8").bank("circuitsdrumtracks")
+snare: s("<- sd>*4").s("d110_sd")
+  .gain(1)
+ohat: s("< -!5 oh -!2>*8").bank("circuitsdrumtracks")
+  .gain(0.4)
+
+
+
+
+let down=arrange(
+[14, "-"],
+[8, "<[f4 e4 c4 a3] [f4 e4 c4 a4]>*1"],
+[4, "-"],
+)
+$: note(down).s("gm_pad_poly").gain(2).release(0.3).decay(1.2).room(0.4).attack(0.03)
