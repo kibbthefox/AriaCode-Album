@@ -5,7 +5,7 @@ I thought that it would fun to make a whole album of them!
 
 This Album was made in Strudel. A few songs (Not all) were post-edited and arranged in Ableton Suite. 
 
-The track 'Connect' was heavily inspired by a instagram reel I saw.
+The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando!
 
 ## Tracklist
 
@@ -46,19 +46,21 @@ Total - TBD
     Arrangement - 1 hour 11 minutes (~1.2 hrs)
 2. Something
 
-    Code - 1 hour (1 hour)
+    Code - 1 hour (1 hr)
    
-    Arrangement - 
+    Arrangement/Singing - 42 minutes (0.7 hrs)
 3. Connect - 1 hr 28 mins (~1.5 hrs)
 
-    Code -
+    Code - 55 mins (~0.9 hrs)
    
-    Arrangement - 
+    Arrangement - 33 mins (~0.5 hrs)
 4. 
 5. 
 6. Somehow (Cover)
 
-    Code -
+    Code - 1 hour 30 mins (1.5 hrs)
+   
+    Arrangement/Singing - ??? (I forgot to record it)
 7. 
 8. 
 9. 
@@ -67,6 +69,8 @@ Total - TBD
 ### Other
 
 Website - TBD
+
+README - TBD
 
 ## AI Disclosure
 
