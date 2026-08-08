@@ -27,11 +27,12 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 6. Somehow (Cover)
 
     [Code](https://strudel.cc/#CnNldGNwbSgyNSkKClBpYW5vYmFzczogbm90ZSgiPGEyIF8gW2EyIC1dIFthMiAtXSBhYjIgXyBfIGRiMyBfIF8gLSBbZGIzIC1dIFtkYjMgLV0gLSBiMiBfIGEyIF8gLSBbYTIgLV0gLSBhYjIgLSBkYjMgXyBfIF8gXyBkYjMgLSBlMyBfID4qOCIpCiAgLnMoInBpYW5vIikKICAucmVsZWFzZSgwLjEpCiAgCgpQaWFub2Nob3JkOiBub3RlKGA8ClstIC0gZTQgIC0gLSBiNCBfIGFiNCBfIF8gXyAtIFthYjQgLV0gLSBlNCAgXyBdIFstIC0gZTQgIFstIGU0XSAgLSBiNCAtIGFiNCBfIF8gXyBbYWI0IC1dIGFiNCAtIGFiNCBfIF0sClstIC0gZGI0IC0gLSBlNCBfIGU0ICBfIF8gXyAtIFtlNCAgLV0gLSBkNCAgXyBdIFstIC0gZGI0IFstIGRiNF0gLSBlNCAtIGU0ICBfIF8gXyBbZTQgIC1dIGU0ICAtIGdiNCBfIF0sClstIC0gYjMgIC0gLSBjNCBfIGViNCBfIF8gXyAtIFtlYjQgLV0gLSBkYjQgXyBdIFstIC0gYjMgIFstIGIzXSAgLSBjNCAtIGViNCBfIF8gXyBbZWI0IC1dIGViNCAtIGQ0ICBfIF0sClstIC0gYWIzIC0gLSAtICAtIGIzICBfIF8gXyAtIFtiMyAgLV0gLSBhMyAgXyBdIFstIC0gYWIzIFstIGFiM10gLSAtICAtIGIzICBfIF8gXyBbYjMgIC1dIGIzICAtIGFiMyBfIF0KPioxLzJgKQogIC5zKCJwaWFubyIpCiAgLnJlbGVhc2UoMC4xKQoKCmhpOiBub3RlKGA8CltlNCAgXyBfIF8gYjQgIF8gXyBhYjQgXyBfIF8gXyBfIF8gZTQgIF8gXSBbZTQgIF8gXyBfIGI0ICBfIF8gYWI0IF8gXyBfIF8gXyBfIGFiNCBfIF0sCltkYjQgXyBfIF8gZTQgIF8gXyBlNCAgXyBfIF8gXyBfIF8gZDQgIF8gXSBbZGI0IF8gXyBfIGU0ICBfIF8gZTQgIF8gXyBfIF8gXyBfIGdiNCBfIF0sCltiMyAgXyBfIF8gYzQgIF8gXyBlYjQgXyBfIF8gXyBfIF8gZGI0IF8gXSBbYjMgIF8gXyBfIGM0ICBfIF8gZWI0IF8gXyBfIF8gXyBfIGQ0ICBfIF0sClthYjMgXyBfIF8gZ2IzIF8gXyBiMyAgXyBfIF8gXyBfIF8gYTMgIF8gXSBbYWIzIF8gXyBfIGdiMyBfIF8gYjMgIF8gXyBfIF8gXyBfIGFiMyBfIF0sClthMiAgXyBfIF8gYWIyIF8gXyBkYjMgXyBfIF8gXyBfIF8gYjIgIF8gXSBbYTIgIF8gXyBfIGFiMiBfIF8gZGIzIF8gXyBfIF8gXyBfIGUzICBfIF0KPioxLzJgKQogIC5zKCJnbV9ibG93bl9ib3R0bGUiKQogIC5yZWxlYXNlKDAuMSkKICAuZ2FpbigwLjUpCgoKQmFzczogbm90ZSgiPGEyIF8gW2FiMiBfIGFiMiAtXSBbLSBkYjMgXyBfIF8gXyBfIF9dIF8gXyAtIGIyIGEyIF8gW2FiMiBfIGFiMiAtXSBbLSBkYjMgXyBfIF8gXyBfIF9dIF8gXyAtIGUzPio0IikKICAucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKQogIC5yZWxlYXNlKDApCiAgLnRyYW5zcG9zZSgiLTEyIikKICAuZ2FpbigwLjkpCgoKbGV0IHBpYW5vbWVsb2R5PWFycmFuZ2UoClsxLCAiLSJdLApbMSwgIjxlNCBnYjQgYWI0IGI0IGFiNCBnYjQgZTQgZ2I0IGFiNCBfIGRiNSBfIGI0IF8gXyBfID4qMTYiXSwKWzEsICItIl0sClsxLCAiPGU0IGViNCBhYjQgYjQgZTQgZWI0IGFiNCBnYjQgYWI0IF8gZTQgXyBnYjQgXyBfIF8gPioxNiJdLAopCiQ6IG5vdGUocGlhbm9tZWxvZHkpCiAgLnMoInBpYW5vIikKICAudHJhbnNwb3NlKCIxMiIpCiAgLnJlbGVhc2UoMC4yKQogIC5yb29tKDAuMikKICAuZ2FpbigxLikKCgpraWNrOiBzKCI8YmQgLSBbLSBiZF0gLT4qNCIpLmJhbmsoImNvbXB1cmh5dGhtMTAwMCIpCnNuYXJlOiBzKCI8LSBzZCAtIHNkIC0gW3NkIC0gLSBzZF0gLSBzZD4qNCIpLmJhbmsoImNvbXB1cmh5dGhtMTAwMCIpCnJpZGU6IHMoIjxyZCoyPio0IikuYmFuaygiY29tcHVyaHl0aG0xMDAwIikKICAuZ2FpbigwLjQpCg%3D%3D)
-7. 
+7. Ship
+
+    [Code](https://strudel.cc/#CmNwbSgyNCkKCkNob3Jkczogbm90ZSgiPFtiMywgZWI0LCBnYjQsIGJiNF0gW2UzLCBkNCwgZ2I0LCBhNF0gW2EzLCBkYjQsIGU0LCBhYjQsIGI0XSBbYzQsIGU0LCBnNCwgYjRdPiIpCgpiYXNzOiBub3RlKCI8YjEgZTIgYTEgYzIgYjEgZTIgYTIgYzI%2BIikuZGlzdCgxKQoKcGVyY25vdGU6IG5vdGUoImIwIGdiMSBnYjEgYjAgZ2IxIGdiMSBiMSBiMSIpLnMoIm1ldGFsIikuZ2FpbigxKS5kZWxheSgwLjQpLnRyYW5zcG9zZSgtOCkucm9vbSgwLjIpCgptZWxvZHk6IG5vdGUoIjxlYjMgLSAtIFtnYjMgYjNdIGRiNCAtIGViNCAtIGdiNCBbLSBlNF0gLSBlYjQgYjMgLSBnYjMgLT4qOCIpLnMoImdtX2d1aXRhcl9oYXJtb25pY3M6MyIpLnRyYW5zcG9zZSgtMTIpLmdhaW4oMikKCl9tZWxvZHl0d286IG5vdGUoIjxiNCBkYjUgZWI1IGdiNSBhNSBnYjUgZDUgYjQgYTQgZGI1IGU1IGE1IGc1IGU1IGM1IGc0Pio0IikucygiZ21fbGVhZF83X2ZpZnRocyIpCgpwZXJjOiBzKCJbLSBzcGFjZToxXSoyIikuZ2FpbigwLjQpCmtpY2s6IHMoImJkIC0gWy0gYmRdIC0iKS5zKCJkMTEwX2JkIikuZGlzdCgzKS5nYWluKDAuMykKc25hcmU6IHMoIi0gc2QgLSBzZCIpLnMoImRkcjMwX3NkIikuZGlzdCgyKS5nYWluKDAuMykKaGF0OiBzKCJoaCo4Iik%3D)
 8. 
 9. 
 10. 
-11. 
 
 (Ten songs is the goal!)
 
@@ -39,11 +40,11 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 
 ### Total
 
-Total - ~13.5 hrs
+Total - ~15.1 hrs atm
 
-Tracks - ~12 hrs atm (Hackatime disagrees with the math below and idk why </3)
+Tracks - 13.2 hrs atm (Hackatime disagrees with the math below and idk why </3)
 
-Other - ~1.5 hrs atm
+Other - ~1.9 hrs atm
 
 ### Tracks
 
@@ -80,16 +81,20 @@ Other - ~1.5 hrs atm
     Code - 1 hour 30 mins (1.5 hrs)
    
     Arrangement/Singing - ??? (I forgot to record it)
-7. 
+7. Ship - 1 hour 13 mins (~1.2 hrs)
+
+    Code - 40 mins (~0.7 hrs)
+
+    Arranging - 33 mins (~0.5 hrs)
 8. 
 9. 
 10. 
 
 ### Other
 
-Website - 39 mins
+Website - 40 mins atm
 
-README - 52 mins
+README - 1 hour 11 mins atm
 
 ## AI Disclosure
 
@@ -97,7 +102,67 @@ I try to avoid AI as much as possible. I rarely went to AI in the music making p
 
 ## Lyrics
 
-To be added eventually
+### Something
+
+I just want to know where I should go
+
+Cause I don't know where I left my home
+
+I just want to know why time’s so slow
+
+Why it feels like I’ve been stuck for years
+
+I just want to feel something, I just want to feel right
+
+I just want to go home now, cause its not alright
+
+I just want to do something, I just want to move on
+
+I just need some time now, but maybe it’s all gone
+
+### Scared
+
+I dont want to let it go  
+
+But I'm scared that it will break my soul  
+
+So I grasp it with pleasure and fright
+
+Cause the sun’s setting it soon turns night
+
+It will hurt to rip it out  
+
+As it’s pierced my mind and begun to sprout  
+
+But I have no other option now  
+
+As it soon will grow into death somehow
+
+I'll try my best to fix this mess
+
+But it's already caused much stress
+
+I know it will be very rough
+
+I dont know if im strong enough
+
+### Somehow (Cover)
+
+Some things could stay worse
+
+And somethings are not able to reverse
+
+But I know im on the right path somehow
+
+Stop living in the past and live life now
+
+Just know there will be trials that we face
+
+But maybe we should learn how to embrace
+
+Cause although it can bring despair and pains
+
+There always will be seeds in the remains
 
 ## Screenshots
 
