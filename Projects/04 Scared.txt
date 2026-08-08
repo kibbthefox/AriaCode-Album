@@ -1,0 +1,93 @@
+
+setcpm(26)
+
+
+let chords=arrange(
+  [4, "-"],
+  [32, "<CM7 _ Em7 Bm7>*2"],
+  [16, "<GM9 _ CM7 _>*2"],
+  [1, "-"],
+  [16, "<CM7 _ Em7 Bm7>*2"],
+  [100, "-"],
+)
+$: chord(chords).voicing().s("steinway").transpose(12).release(1).room(0.4).gain(0.2).pan(0.4)
+
+
+
+let synthchords=arrange(
+  [8, "-"],
+  [28, "<CM7 _ Em7 DM>*2"],
+  [16, "<GM9 _ CM7 _>*2"],
+  [1, "-"],
+  [16, "<CM7 _ Em7 DM>*2"],
+  [100, "-"],
+)
+$: chord(synthchords).voicing()
+  .s("saw")
+  .decay(4)
+  .release(0)
+  .lpf(4000)
+  .gain(0.25)
+  .room(0.4)
+  .pan(0.6)
+  .tremsync(8)
+  .tremshape("saw")
+  .tremdepth(0.5)
+
+
+
+let bass=arrange(
+  [10, "-"],
+  [2, "<[c2!3 c3 c2!2 c3 [c2 c3]] [e2!3 e3 b1!2 b2 [b1 b2]]>"],
+  [24, "<[c2!3 c3 c2!2 c3 [c2 c3]] [e2!3 e3 d2!2 d3 [d2 d3]] [c2!3 c3 c2!2 c3 [c2 c3]] [e2!3 e3 b1!2 b2 [b1 b2]]>"],
+  [16, "<[g2!3 g3 g2!2 g3 [g2 g3]] [c2!3 c3 c2!2 b2 [c2 b2]]>"],
+  [1, "-"],
+  [16, "<[c2!3 c3 c2!2 c3 [c2 c3]] [e2!3 e3 d2!2 d3 [d2 d3]] [c2!3 c3 c2!2 c3 [c2 c3]] [e2!3 e3 b1!2 b2 [b1 b2]]>"],
+  [100, "-"],
+)
+$: note(bass).s("gm_electric_bass_pick")
+  .transpose(-12)
+  .dist(0.5)
+  .gain(0.25)
+
+
+
+let arp=arrange(
+  [12, "b3 d4 b3 d4 e4 d4 b3 g4"],
+  [8, "-"],
+  [8, "b3 d4 b3 d4 e4 d4 b3 g4"],
+  [8, "-"],
+  [8, "<- [g4 gb4] [- d4] [- b3] - d4 [a3 b3] [- g3]>*4"],
+  [4, "-"],
+  [4, "<- [g4 gb4] [- d4] [- b3] - d4 [a3 b3] [- g3]>*4"],
+  [1, "-"],
+  [16, "b3 d4 b3 d4 e4 d4 b3 g4"],
+  [100, "-"],
+)
+$: note(arp).s("gm_fx_brightness").release(0.3).room(0.3).gain(0.35).pan("<0.6 0.4>")
+
+
+
+let kick=arrange(
+  [11, "-"],
+  [58, "bd - [- bd] -"],
+  [100, "-"],
+)
+$: s(kick).s("d110_bd").dist(2).gain(0.04)
+
+let snare=arrange(
+  [11, "-"],
+  [1, "<[- - - - sd - - sd] [- sd]>*2"],
+  [40, "<[- sd]!2 [- - - - sd - - sd] [- sd]>*2"],
+  [1, "<- [- sd sd sd]>*2"],
+  [16, "<[- sd]!2 [- - - - sd - - sd] [- sd]>*2"],
+  [100, "-"],
+)
+$: s(snare).s("bossdr550_sd").dist(2).gain(0.05)
+
+let shaker=arrange(
+  [11, "-"],
+  [58, "c3!8"],
+  [100, "-"],
+)
+$: note(shaker).s("shaker_small").gain(4).hpf(200)
