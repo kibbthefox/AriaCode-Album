@@ -1,0 +1,53 @@
+
+setcpm(29.5)
+
+let chords=arrange(
+  [8, "-"],
+  [4, "<[c3 c4 c4 c3 c4 c4 [c3 c3] c4] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+  [3.5, "<[c2 c3 c3 c2 c3 c3 [c2 c2] c3] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+  [0.5, "-"],
+  [4, "<[c3 c4 c4 c3 c4 c4 [c3 c3] c4] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+  [4, "<[c2 c3 c3 c2 c3 c3 [c2 c2] c3] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+  [4, "<[c3 c4 c4 c3 c4 c4 [c3 c3] c4] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+  [4, "<[c2 c3 c3 c2 c3 c3 [c2 c2] c3] [g2 g3 g3 g2 g3 g3 [g2 g2] g3] [d2 d3 d3 d2 d3 d3 [d2 d2] d3]!2>"],
+)
+$: note(chords).s("strudelsamples1").release(0).dist(0.6).gain(0.3).transpose(-9)
+
+
+
+let bass=arrange(
+  [16, "-"],
+  [16, "<c2 g1 d1 _ c1 g1 d1 _>"]
+)
+$: note(bass).transpose(5).dist(1).gain(0.7)
+
+
+
+let melody=arrange(
+  [12, "-"],
+  [20, "<g2 _ _ _ _ gb2 g2 d2 _ _ _ _ _ gb2 g2 a1 _ _ _ _ _ b1 e2 gb2 _ _ _ _ _ a g a>*8"],
+  [1, "g2"],
+)
+$: note(melody).s("strudelsamples1:7").transpose(5).release(0).room(0.5).gain(1.3)
+
+
+
+arp: note("<c4 e4 g4 b4 g3 b3 d4 gb4 a3 db4 d4 gb4 a4 gb4 d4 b4>*4").transpose(-31).s("strudelsamples1:6").release(0).delay(0.4).room(0.3).gain(0.4)
+
+
+
+let kicksnare=arrange(
+  [15.75, "<bd - - bd sd - - bd - sd - - sd - - bd>*8"],
+  [.25, "-"],
+  [16, "<bd - - bd sd - - bd - sd - - sd - - bd>*8"],
+  [16, "-"],
+)
+$: s(kicksnare)
+
+let hats=arrange(
+  [15.75, "<- hh hh - - hh hh - hh - oh - hh hh hh ->*8"],
+  [.25, "-"],
+  [16, "<- hh hh - - hh hh - hh - oh - hh hh hh ->*8"],
+  [16, "-"],
+)
+$: s(hats).bank("alesissr16")
