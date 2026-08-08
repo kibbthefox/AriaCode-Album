@@ -1,0 +1,70 @@
+
+setcpm(94/4)
+
+let acousticbass=arrange(
+  [1/2, "-"],
+  [31/16, "<g1 _ d2 _ g1 _ d2 _ g1 _ d2 g1 _ b1 _ c2 _ _ g2 _ c2 _ g2 _ c2 _ g2 gb2 _ d2 _>*16"],
+  [14, "<g1 _ _ d2 _ g1 _ d2 _ g1 _ d2 g1 _ b1 _ c2 _ _ g2 _ c2 _ g2 _ c2 _ g2 gb2 _ d2 _  >*16"],
+  [50, "-"],
+)
+$: note(acousticbass).s("gm_acoustic_bass").gain(0.8)
+
+
+
+let electricpiano=arrange(
+  [16.5, "<g3 _ _ gb3 _ _ [g2,b2,d3,gb3,a3] _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ [c3,e3,g3,b3] _ _ _ _ _ _ _ _ _>*16"],
+  [50, "-"],
+)
+$: note(electricpiano).s("gm_epiano1").transpose(12).gain(0.85)
+
+
+
+let piano=arrange(
+  [2, "<- - - - - - - - - - - - - - g2 _ b2 _ g2 _ b2 _ [c3,e3,g3,b3] _ _ _ _ _ c3 _ _ _>*16"],
+  [14, "<g3 _ c3 gb3 _ c3 [g2b2,d3,gb3,a3] _ _ _ _ _ _ _ g2 _ b2 _ g2 _ b2 _ [c3,e3,g3,b3] _ _ _ _ _ c3 _ _ _>*16"],
+  [1, "<g3 _ c3 gb3 _ c3 [g2b2,d3,gb3,a3] _ _ _ _ _ _ _ - - - - - - - ->*16"],
+  [50, "-"],
+)
+$: note(piano).s("kawai").transpose(12).release(0.5).pan(0.56).gain(0.45)
+
+
+
+let electricback=arrange(
+  [1/2, "-"],
+  [16, "<-!10 c4 d4 g4 [- gb4] - d4 -!6 c4 b3 -!8>*8"],
+  [50, "-"],
+)
+$: note(electricback).s("gm_epiano1").transpose(12).release(3).pan(0.44).gain(0.7)
+
+
+
+let solo=arrange(
+  [9, "-"],
+  [3.5, "<d3 b2 a2 g2 _ _ _ gb2 _ _ g2 _ b2 _ _ _ _ a2 b2 d3 _ _ _ _ g3 _ gb3 _>*8"],
+  [4.5, "<d3 _ _ _ _ _ b2 a2 _ _ _ _ a2 b2 a2 _ g2 _ a2 _ g2 _ gb2 d2 _ _ g2 gb2 _ d2 _ b1 _ _ _ _ - - - - - - - - ->*8"],
+  [50, "-"],
+)
+$: note(solo).s("sax").release(0).gain(1.1).room(0.2)
+
+
+
+let kick=arrange(
+  [1/2, "-"],
+  [15.75, "<bd -!4 bd -!4 bd -!5>*16"],
+  [50, "-"],
+)
+$: s(kick).s("korgddm110_bd").room(0.1).gain(0.6)
+
+let snare=arrange(
+  [1/2, "-"],
+  [15.75, "<-!4 sd -!2 sd -!3 sd -!4>*16"],
+  [50, "-"],
+)
+$: s(snare).s("dmx_sd").room(0.1).gain(0.6)
+
+let ride=arrange(
+  [1/2, "-"],
+  [15.75, "<rd - rd rd>*16"],
+  [50, "-"],
+)
+$: s(ride).s("rm50_rd").swingBy(1/3, 8).room(0.1).gain(0.4)
