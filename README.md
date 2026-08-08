@@ -3,7 +3,7 @@ This project was made for the [HackClub](https://hackclub.com) [Aria YSWS](https
 The challenge was to make a 30-second song(s) by coding them. 
 I thought that it would fun to make a whole album of them!
 
-This Album was made in Strudel. A few songs (Not all) were post-edited and arranged in Ableton Suite. 
+This Album was made in Strudel. Some songs were post-edited, arranged, or sung over in Ableton. 
 
 The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando!
 
@@ -18,7 +18,9 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 3. Connect
 
     [Code](https://strudel.cc/#Ci8vIENyZWRpdHM6ICBodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWxzL0RiR3B4TXdzaXhULwoKc2V0Y3BtKDIxKQoKCgoKbGV0IGFycD1hcnJhbmdlKApbMiwgIi0iXSwKWzI0LCAiPFtmMSBhMl0hMiBbYmIxIGEyXSEyIFthMSBhMl0hMiBbYmIxIGEyXSEyPio0Il0sCikKJDogbm90ZShhcnApLnMoImNhc2lvcGlhbm8iKQogIC5yZWxlYXNlKDApCiAgLmdhaW4oMC44KQogIC5hdHRhY2soMC4wMykKICAuZGVjYXkoMC4zKQogIC5zdXN0YWluKDAuMykKICAucGFuKDAuNCkKCgoKCmxldCBtZWxvZHk9YXJyYW5nZSgKWzYsICItIl0sClsxNiwgIjxhMiBfIF8gXyBiYjIgYzMgYTMgZjMgXyBfIF8gXyBnMyBfIGEzIF8%2BKjgiXSwKKQokOiBub3RlKG1lbG9keSkucygiY2FzaW9mYW50YXN5IikKICAucmVsZWFzZSgwLjEpCiAgLmdhaW4oMS43KQogIC50cmFuc3Bvc2UoIi0xMiIpCiAgLmF0dGFjaygwLjAyKQogIC5kZWNheSgxLjIpCiAgLnN1c3RhaW4oMCkKICAucm9vbSgwLjUpCiAgLnBhbigwLjYpCgoKCgpsZXQgYmFzcz1hcnJhbmdlKApbNiwgIi0iXSwKWzE4LCAiPFtmMSBmMl0hMiBbYmIxIGJiMl0hMiBbYTEgYTJdITIgW2JiMSBiYjJdITI%2BKjQiXSwKKQokOiBub3RlKGJhc3MpLnJlbGVhc2UoMCkKICAudHJhbnNwb3NlKCItMjQiKQogIC5zKCJjYXNpb2ZhbnRhc3kiKQogIC5kaXN0KDEpCiAgLmdhaW4oMC40NSkKCgoKCmxldCB0d289YXJyYW5nZSgKWzYsICItIl0sClsxNiwgIjwgLSBbYTQgYTRdIFstIGE0XSEzIGE0IGM1IGE0IC0gW2E0IGE0XSBbLSBhNF0hMyBhNCBjNSBkNT4qOCJdCikKJDogbm90ZSh0d28pLnMoInRyaWFuZ2xlIikKICAucmVsZWFzZSgwKQogIC5nYWluKDAuNykKICAudHJhbnNwb3NlKCIwIikKICAucm9vbSgwLjYpCiAgLnBhbigwLjQpCgoKCgpsZXQgaGF0PWFycmFuZ2UoCls1LCAiPGhoITUgLSBoaCEyPio4Il0sClsxLCAiPGhoITUgLSBoaCAtID4qOCJdLApbMTksICI8aGghNSAtIGhoITI%2BKjgiXSwKWzEsICI8aGghNSAtIGhoIC0gPio4Il0sCikKJDogcyhoYXQpLmJhbmsoImNpcmN1aXRzZHJ1bXRyYWNrcyIpCiAgLmdhaW4oMC41KQpraWNrOiBzKCI8YmQgWy0gYmRdIC0gWy0gYmRdIFstIGJkXSBiZCAtIC0gPio4IikuYmFuaygiY2lyY3VpdHNkcnVtdHJhY2tzIikKc25hcmU6IHMoIjwtIHNkPio0IikucygiZDExMF9zZCIpCiAgLmdhaW4oMSkKb2hhdDogcygiPCAtITUgb2ggLSEyPio4IikuYmFuaygiY2lyY3VpdHNkcnVtdHJhY2tzIikKICAuZ2FpbigwLjQpCgoKCgpsZXQgZG93bj1hcnJhbmdlKApbMTQsICItIl0sCls4LCAiPFtmNCBlNCBjNCBhM10gW2Y0IGU0IGM0IGE0XT4qMSJdLApbNCwgIi0iXSwKKQokOiBub3RlKGRvd24pLnMoImdtX3BhZF9wb2x5IikuZ2FpbigyKS5yZWxlYXNlKDAuMykuZGVjYXkoMS4yKS5yb29tKDAuNCkuYXR0YWNrKDAuMDMp)
-4. 
+4. Scared
+
+    [Code](https://strudel.cc/#CnNldGNwbSgyNikKCgpsZXQgY2hvcmRzPWFycmFuZ2UoCiAgWzQsICItIl0sCiAgWzMyLCAiPENNNyBfIEVtNyBCbTc%2BKjIiXSwKICBbMTYsICI8R005IF8gQ003IF8%2BKjIiXSwKICBbMSwgIi0iXSwKICBbMTYsICI8Q003IF8gRW03IEJtNz4qMiJdLAogIFsxMDAsICItIl0sCikKJDogY2hvcmQoY2hvcmRzKS52b2ljaW5nKCkucygic3RlaW53YXkiKS50cmFuc3Bvc2UoMTIpLnJlbGVhc2UoMSkucm9vbSgwLjQpLmdhaW4oMC4yKS5wYW4oMC40KQoKCgpsZXQgc3ludGhjaG9yZHM9YXJyYW5nZSgKICBbOCwgIi0iXSwKICBbMjgsICI8Q003IF8gRW03IERNPioyIl0sCiAgWzE2LCAiPEdNOSBfIENNNyBfPioyIl0sCiAgWzEsICItIl0sCiAgWzE2LCAiPENNNyBfIEVtNyBETT4qMiJdLAogIFsxMDAsICItIl0sCikKJDogY2hvcmQoc3ludGhjaG9yZHMpLnZvaWNpbmcoKQogIC5zKCJzYXciKQogIC5kZWNheSg0KQogIC5yZWxlYXNlKDApCiAgLmxwZig0MDAwKQogIC5nYWluKDAuMjUpCiAgLnJvb20oMC40KQogIC5wYW4oMC42KQogIC50cmVtc3luYyg4KQogIC50cmVtc2hhcGUoInNhdyIpCiAgLnRyZW1kZXB0aCgwLjUpCgoKCmxldCBiYXNzPWFycmFuZ2UoCiAgWzEwLCAiLSJdLAogIFsyLCAiPFtjMiEzIGMzIGMyITIgYzMgW2MyIGMzXV0gW2UyITMgZTMgYjEhMiBiMiBbYjEgYjJdXT4iXSwKICBbMjQsICI8W2MyITMgYzMgYzIhMiBjMyBbYzIgYzNdXSBbZTIhMyBlMyBkMiEyIGQzIFtkMiBkM11dIFtjMiEzIGMzIGMyITIgYzMgW2MyIGMzXV0gW2UyITMgZTMgYjEhMiBiMiBbYjEgYjJdXT4iXSwKICBbMTYsICI8W2cyITMgZzMgZzIhMiBnMyBbZzIgZzNdXSBbYzIhMyBjMyBjMiEyIGIyIFtjMiBiMl1dPiJdLAogIFsxLCAiLSJdLAogIFsxNiwgIjxbYzIhMyBjMyBjMiEyIGMzIFtjMiBjM11dIFtlMiEzIGUzIGQyITIgZDMgW2QyIGQzXV0gW2MyITMgYzMgYzIhMiBjMyBbYzIgYzNdXSBbZTIhMyBlMyBiMSEyIGIyIFtiMSBiMl1dPiJdLAogIFsxMDAsICItIl0sCikKJDogbm90ZShiYXNzKS5zKCJnbV9lbGVjdHJpY19iYXNzX3BpY2siKQogIC50cmFuc3Bvc2UoLTEyKQogIC5kaXN0KDAuNSkKICAuZ2FpbigwLjI1KQoKCgpsZXQgYXJwPWFycmFuZ2UoCiAgWzEyLCAiYjMgZDQgYjMgZDQgZTQgZDQgYjMgZzQiXSwKICBbOCwgIi0iXSwKICBbOCwgImIzIGQ0IGIzIGQ0IGU0IGQ0IGIzIGc0Il0sCiAgWzgsICItIl0sCiAgWzgsICI8LSBbZzQgZ2I0XSBbLSBkNF0gWy0gYjNdIC0gZDQgW2EzIGIzXSBbLSBnM10%2BKjQiXSwKICBbNCwgIi0iXSwKICBbNCwgIjwtIFtnNCBnYjRdIFstIGQ0XSBbLSBiM10gLSBkNCBbYTMgYjNdIFstIGczXT4qNCJdLAogIFsxLCAiLSJdLAogIFsxNiwgImIzIGQ0IGIzIGQ0IGU0IGQ0IGIzIGc0Il0sCiAgWzEwMCwgIi0iXSwKKQokOiBub3RlKGFycCkucygiZ21fZnhfYnJpZ2h0bmVzcyIpLnJlbGVhc2UoMC4zKS5yb29tKDAuMykuZ2FpbigwLjM1KS5wYW4oIjwwLjYgMC40PiIpCgoKCmxldCBraWNrPWFycmFuZ2UoCiAgWzExLCAiLSJdLAogIFs1OCwgImJkIC0gWy0gYmRdIC0iXSwKICBbMTAwLCAiLSJdLAopCiQ6IHMoa2ljaykucygiZDExMF9iZCIpLmRpc3QoMikuZ2FpbigwLjA0KQoKbGV0IHNuYXJlPWFycmFuZ2UoCiAgWzExLCAiLSJdLAogIFsxLCAiPFstIC0gLSAtIHNkIC0gLSBzZF0gWy0gc2RdPioyIl0sCiAgWzQwLCAiPFstIHNkXSEyIFstIC0gLSAtIHNkIC0gLSBzZF0gWy0gc2RdPioyIl0sCiAgWzEsICI8LSBbLSBzZCBzZCBzZF0%2BKjIiXSwKICBbMTYsICI8Wy0gc2RdITIgWy0gLSAtIC0gc2QgLSAtIHNkXSBbLSBzZF0%2BKjIiXSwKICBbMTAwLCAiLSJdLAopCiQ6IHMoc25hcmUpLnMoImJvc3NkcjU1MF9zZCIpLmRpc3QoMikuZ2FpbigwLjA1KQoKbGV0IHNoYWtlcj1hcnJhbmdlKAogIFsxMSwgIi0iXSwKICBbNTgsICJjMyE4Il0sCiAgWzEwMCwgIi0iXSwKKQokOiBub3RlKHNoYWtlcikucygic2hha2VyX3NtYWxsIikuZ2Fpbig0KS5ocGYoMjAwKQo%3D)
 5. 
 6. Somehow (Cover)
 
@@ -35,28 +37,38 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 
 ### Total
 
-Total - TBD
+Total - 11.2 hrs
+
+Tracks - ~9.8 hrs atm (Hackatime disagrees with the math below and idk why </3)
+
+Other - 1.3 hrs atm
 
 ### Tracks
 
-1. Fruit - 2 hrs 18 mins (2.3 hrs)
+1. Fruit - 2 hours 18 mins (2.3 hrs)
 
     Code - 1 hour 7 mins (~1.1 hrs)
 
     Arrangement - 1 hour 11 minutes (~1.2 hrs)
-2. Something
+2. Something - 1 hour 42 minutes (1.7 hrs)
 
     Code - 1 hour (1 hr)
    
     Arrangement/Singing - 42 minutes (0.7 hrs)
-3. Connect - 1 hr 28 mins (~1.5 hrs)
+3. Connect - 1 hour 28 mins (~1.5 hrs)
 
     Code - 55 mins (~0.9 hrs)
    
     Arrangement - 33 mins (~0.5 hrs)
-4. 
+4. Scared - 2 hours 24 minutes (2.4 hrs)
+
+    Code - 46 mins (~0.8 hrs)
+
+    Arrangement - 49 mins (~0.8 hrs)
+
+    Lyrics/Singing - 49 mins (~0.8 hrs)
 5. 
-6. Somehow (Cover)
+6. Somehow (Cover) - 1 hour 30 mins (1.5 hrs)
 
     Code - 1 hour 30 mins (1.5 hrs)
    
@@ -68,13 +80,17 @@ Total - TBD
 
 ### Other
 
-Website - TBD
+Website - 38 mins
 
-README - TBD
+README - 40 mins
 
 ## AI Disclosure
 
 I try to avoid AI as much as possible. I rarely went to AI in the music making process. I either used the learning documents or asked AI how to do specific things in the code. I didn't ONCE use AI to write code in this whole project's process. No AI was used while making the website.
+
+## Lyrics
+
+To be added eventually
 
 ## Screenshots
 
