@@ -6,7 +6,7 @@ This project was made for the [HackClub](https://hackclub.com) [Aria YSWS](https
 The challenge was to make a 30-second song(s) by coding them. 
 I thought that it would fun to make a whole album of them!
 
-This Album was made in Strudel. Some songs were post-edited, arranged, and/or sung over in Ableton. 
+This Album was made in [Strudel](https://strudel.cc/#). Some songs were post-edited, arranged, and/or sung over in [Ableton Live](https://www.ableton.com/en/live/). 
 
 ## Tracklist
 
@@ -45,7 +45,7 @@ This Album was made in Strudel. Some songs were post-edited, arranged, and/or su
 
 ### Total
 
-Total - 19.3 hrs atm
+[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - 19.4 hrs atm
 
 Tracks - 16.8 hrs atm
 
