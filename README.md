@@ -2,11 +2,15 @@
 
 ## About
 
+This album is still being made, so check back later.
+
 This project was made for the [HackClub](https://hackclub.com) [Aria YSWS](https://aria.hackclub.com). 
 The challenge was to make a 30-second song(s) by coding them. 
 I thought that it would fun to make a whole album of them!
 
 This Album was made in [Strudel](https://strudel.cc/#). Some songs were post-edited, arranged, and/or sung over in [Ableton Live](https://www.ableton.com/en/live/). 
+
+You can listen on [Bandcamp](https://unit13.bandcamp.com/album/ariacode) and other places soon :D
 
 ## Tracklist
 
