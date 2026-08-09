@@ -10,7 +10,7 @@ I thought that it would fun to make a whole album of them!
 
 This Album was made in [Strudel](https://strudel.cc/#). Some songs were post-edited, arranged, and/or sung over in [Ableton Live](https://www.ableton.com/en/live/). 
 
-You can listen on [Bandcamp](https://unit13.bandcamp.com/album/ariacode) and other places soon :D
+You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [Bandcamp](https://unit13.bandcamp.com/album/ariacode), and other places soon :D
 
 ## Tracklist
 
