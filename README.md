@@ -37,19 +37,19 @@ This Album was made in Strudel. Some songs were post-edited, arranged, and/or su
 9. Star
 
     [Code](https://strudel.cc/#CnNldGNwbSgyMikKCi8vRHJ1bXMgaW5zcGlyZWQgYnkgJ2VhcmluZ3MnIGJ5IG1hbGNvbSB0b2RkCgpjaG9yZHM6IGNob3JkKCI8RE03IEMjTSBGI203IEFNNz4iKS52b2ljaW5nKCkucygiZ21fcGFkX2Nob2lyIikucGFuKDAuNSkucmVsZWFzZSgwKS5nYWluKDAuOSkKCgpfYmFzc2E6IG5vdGUoIjxkMiE3IFtkMiAtIC0gLV0gYyMyITcgW2MjMiAtIC0gLV0gRiMxITcgW0YjMSAtIC0gLV0gYTEhNyBbYTEgLSAtIC1dPio4IikucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5nYWluKDEuNCkKCmJhc3NiOiBub3RlKCI8ZDIhOCBjIzIhOCBGIzEhOCBhMSE4ID4qOCIpLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikuZ2FpbigxLjQpCgoKZHVhbG1lbG9keW9uZTogbm90ZSgiPGExIF8gXyBfIGExIGIxIGRiMiBlMiBfIF8gZGIyIF8gYjEgZGIyIGIxIGFiMSBkYjIgXyBfIF8gXyBlMiBmIzIgYTIgXyBfIGYjMiBfIGUyIGRiMiBfIGFiMT4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC40KQoKZHVhbG1lbG9keXR3bzogbm90ZSgiPGQxIF8gXyBfIGQxIGUxIGQxIGRiMSBfIF8gXyBjMSBkYjEgZDEgZGIxIGIwIGEwIF8gXyBfIF8gXyBhMCBlMSBfIF8gZGIxIF8gYjAgZGIxIGIwIGFiMD4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC42KQoKCl9raWNrYTogbm90ZSgiYzIgYzIgYzIgYzIgYzIgYzIgYzIgW2MyIC0gLSAtXSIpLnMoImFrYWltcGM2MF9iZCIpCgpraWNrYjogcygiYmQgYmQgLSAtIC0gYmQgLSAtIikucygiYWthaW1wYzYwX2JkIikuZ2FpbigwLjcpCnNuYXJlOiBzKCItIC0gc2QgWy0gc2RdIFstIHNkXSAtIHNkIC0iKS5zKCJjaXJjdWl0c3RvbV9zZCIpLmdhaW4oMC41KQpoaWhhdDogcygiaGggaGggaGggaGggaGggLSBoaCBoaCIpLnMoInNyMTZfaGgiKQpvcGVuaGF0OiBub3RlKCItITUgYzIgLSEyIikucygiYm9zc2RyNTUwX29oIikucmVsZWFzZSgwKQo%3D)
-10. 
+10. Eclipse (Cover)
 
-(Ten songs is the goal!)
+    [Code](https://strudel.cc/#CnNldGNwbSgyMikKCkNob3Jkczogbm90ZSgiPFtkMywgZiMzLCBhMywgZDRdW2MzLCBmIzMsIGEzLCBkNF1bYmIyLCBkMywgZjMsIGJiM11bYTIsIGRiMywgZTMsIGEzXT4iKS5zKCJ0cmkiKS50cmFuc3Bvc2UoMTIpLnJlbGVhc2UoMCkuZ2FpbigwLjQpCgpDaG9yZHN0d286IG5vdGUoIjxbZDMsIGYjMywgYTMsIGQ0XVtjMywgZiMzLCBhMywgZDRdW2JiMiwgZDMsIGYzLCBiYjNdW2EyLCBkYjMsIGUzLCBhM10%2BIikucygidHJpIikucmVsZWFzZSgwKS5nYWluKDAuNCkKCkNob3Jkc29yZ2FuOiBub3RlKCI8W2QzLCBmIzMsIGEzLCBkNF1bYzMsIGYjMywgYTMsIGQ0XVtiYjIsIGQzLCBmMywgYmIzXVthMiwgZGIzLCBlMywgYTNdPiIpLnMoImdtX2NodXJjaF9vcmdhbiIpLmdhaW4oMC4yKS5yZWxlYXNlKDApCgpDaG9yZHNjaG9yZDogbm90ZSgiPFtkMywgZiMzLCBhMywgZDRdW2MzLCBmIzMsIGEzLCBkNF1bYmIyLCBkMywgZjMsIGJiM11bYTIsIGRiMywgZTMsIGEzXT4iKS5zKCJnbV9jaG9pcl9hYWhzIikuZ2FpbigwLjQpLnJlbGVhc2UoMCkKCkJhc3M6IG5vdGUoIjxkMiBjMiBiYjEgYTE%2BIikucygidHJpIikKCmFycDogbm90ZSgiPFtkMyBmIzMgYTMgZDQgYTMgZiMzXSBbYzMgZiMzIGEzIGQ0IGEzIGYjM10gW2JiMiBkMyBmMyBiYjMgZjMgZDNdIFthMiBkYjMgZTMgYTMgZTMgZGIzXT4iKQogIC5zKCJnbV9lbGVjdHJpY19ndWl0YXJfY2xlYW4iKS5yZWxlYXNlKDAuNikuZ2FpbigwLjcpCgpiZDogcygiPGJkIFstIGJkXSAtIC0gYmQgYmQ%2BKjYiKQpzZDogcygiPC0gc2Q%2BKjIiKQpyZDogcygicmQgcmQgcmQgLSByZCByZCIpLnMoImFsZXNpc3NyMTZfcmQiKQpjcjogcygiY3IgLSAtIGNyIC0gLSIpLnMoImFrYWlsaW5uX2NyIikKCg%3D%3D)
 
 ## Hours Spent
 
 ### Total
 
-Total - 18.8 hrs atm
+Total - 19.3 hrs atm
 
-Tracks - ~16.5 hrs atm (Hackatime disagrees with the math below and idk why </3)
+Tracks - 16.8 hrs atm
 
-Other - 2.3 hrs atm
+Other - 2.5 hrs atm
 
 ### Tracks
 
@@ -75,11 +75,11 @@ Other - 2.3 hrs atm
     Arrangement - 49 mins (~0.8 hrs)
 
     Lyrics/Singing - 49 mins (~0.8 hrs)
-5. Inspire - 2 hours (2 hrs)
+5. Inspire - 2 hours 6 mins (2.1 hrs)
 
-    Code - 2 hours (2 hrs)
+    Code - 2 hours 6 mins (2.1 hrs)
 
-    I stopped the recording halfway through so I only have an hour of footage shown. I actually worked on it for close to ~2.3 hours. I got to 2 hours by just doubling the one hour I had recorded.
+    I stopped the recording halfway through so I only have an 1 hour and 3 minutes of footage shown. I actually worked on it for close to ~2.3 hours. I got to 2 hours by just doubling the one hour I had recorded.
 
 6. Somehow (Cover) - 1 hour 30 mins (1.5 hrs)
 
@@ -99,13 +99,17 @@ Other - 2.3 hrs atm
     Code - 51 mins (~0.8 hrs)
 
     Arrangement/Singing - 1 hour 17 mins (~1.3 hrs)
-10. 
+10. Eclipse - 58 mins (~1 hr)
+
+    Code - 29 mins (~0.5 hrs)
+
+    Arrangement - 29 mins (~0.5 hrs)
 
 ### Other
 
 Website - 41 mins atm
 
-README - 1 hour 37 mins atm
+README - 1 hour 48 mins atm
 
 ## Lyrics
 
@@ -205,11 +209,11 @@ You're a star
 
 ## Credits/Inspiration
 
-The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando! The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall.
+The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando! The original song for 'Somehow (Cover)' is 'Somehow' by UNIT_13. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall. The original song for 'Eclipse (Cover)' is 'Eclipse' by Pink Floyd.
 
-## Screenshots
+## Images
 
-To be added eventually
+<img src="https://cdn.phototourl.com/free/2026-08-09-582bd950-f219-406a-b350-819c5f802c88.jpg" alt="albumcover" width="400">
 
 ## AI Disclosure
 

@@ -1,0 +1,20 @@
+
+setcpm(22)
+
+Chords: note("<[d3, f#3, a3, d4][c3, f#3, a3, d4][bb2, d3, f3, bb3][a2, db3, e3, a3]>").s("tri").transpose(12).release(0).gain(0.4)
+
+Chordstwo: note("<[d3, f#3, a3, d4][c3, f#3, a3, d4][bb2, d3, f3, bb3][a2, db3, e3, a3]>").s("tri").release(0).gain(0.4)
+
+Chordsorgan: note("<[d3, f#3, a3, d4][c3, f#3, a3, d4][bb2, d3, f3, bb3][a2, db3, e3, a3]>").s("gm_church_organ").gain(0.2).release(0)
+
+Chordschord: note("<[d3, f#3, a3, d4][c3, f#3, a3, d4][bb2, d3, f3, bb3][a2, db3, e3, a3]>").s("gm_choir_aahs").gain(0.4).release(0)
+
+Bass: note("<d2 c2 bb1 a1>").s("tri")
+
+arp: note("<[d3 f#3 a3 d4 a3 f#3] [c3 f#3 a3 d4 a3 f#3] [bb2 d3 f3 bb3 f3 d3] [a2 db3 e3 a3 e3 db3]>")
+  .s("gm_electric_guitar_clean").release(0.6).gain(0.7)
+
+bd: s("<bd [- bd] - - bd bd>*6")
+sd: s("<- sd>*2")
+rd: s("rd rd rd - rd rd").s("alesissr16_rd")
+cr: s("cr - - cr - -").s("akailinn_cr")
