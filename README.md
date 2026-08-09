@@ -1,11 +1,12 @@
 # AriaCode (Album)
+
+## About
+
 This project was made for the [HackClub](https://hackclub.com) [Aria YSWS](https://aria.hackclub.com). 
 The challenge was to make a 30-second song(s) by coding them. 
 I thought that it would fun to make a whole album of them!
 
-This Album was made in Strudel. Some songs were post-edited, arranged, or sung over in Ableton. 
-
-The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando!
+This Album was made in Strudel. Some songs were post-edited, arranged, and/or sung over in Ableton. 
 
 ## Tracklist
 
@@ -33,7 +34,9 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 8. Code
 
     [Code](https://strudel.cc/#CnNldGNwbSgyOS41KQoKbGV0IGNob3Jkcz1hcnJhbmdlKAogIFs4LCAiLSJdLAogIFs0LCAiPFtjMyBjNCBjNCBjMyBjNCBjNCBbYzMgYzNdIGM0XSBbZzIgZzMgZzMgZzIgZzMgZzMgW2cyIGcyXSBnM10gW2QyIGQzIGQzIGQyIGQzIGQzIFtkMiBkMl0gZDNdITI%2BIl0sCiAgWzMuNSwgIjxbYzIgYzMgYzMgYzIgYzMgYzMgW2MyIGMyXSBjM10gW2cyIGczIGczIGcyIGczIGczIFtnMiBnMl0gZzNdIFtkMiBkMyBkMyBkMiBkMyBkMyBbZDIgZDJdIGQzXSEyPiJdLAogIFswLjUsICItIl0sCiAgWzQsICI8W2MzIGM0IGM0IGMzIGM0IGM0IFtjMyBjM10gYzRdIFtnMiBnMyBnMyBnMiBnMyBnMyBbZzIgZzJdIGczXSBbZDIgZDMgZDMgZDIgZDMgZDMgW2QyIGQyXSBkM10hMj4iXSwKICBbNCwgIjxbYzIgYzMgYzMgYzIgYzMgYzMgW2MyIGMyXSBjM10gW2cyIGczIGczIGcyIGczIGczIFtnMiBnMl0gZzNdIFtkMiBkMyBkMyBkMiBkMyBkMyBbZDIgZDJdIGQzXSEyPiJdLAogIFs0LCAiPFtjMyBjNCBjNCBjMyBjNCBjNCBbYzMgYzNdIGM0XSBbZzIgZzMgZzMgZzIgZzMgZzMgW2cyIGcyXSBnM10gW2QyIGQzIGQzIGQyIGQzIGQzIFtkMiBkMl0gZDNdITI%2BIl0sCiAgWzQsICI8W2MyIGMzIGMzIGMyIGMzIGMzIFtjMiBjMl0gYzNdIFtnMiBnMyBnMyBnMiBnMyBnMyBbZzIgZzJdIGczXSBbZDIgZDMgZDMgZDIgZDMgZDMgW2QyIGQyXSBkM10hMj4iXSwKKQokOiBub3RlKGNob3Jkcykucygic3RydWRlbHNhbXBsZXMxIikucmVsZWFzZSgwKS5kaXN0KDAuNikuZ2FpbigwLjMpLnRyYW5zcG9zZSgtOSkKCgoKbGV0IGJhc3M9YXJyYW5nZSgKICBbMTYsICItIl0sCiAgWzE2LCAiPGMyIGcxIGQxIF8gYzEgZzEgZDEgXz4iXQopCiQ6IG5vdGUoYmFzcykudHJhbnNwb3NlKDUpLmRpc3QoMSkuZ2FpbigwLjcpCgoKCmxldCBtZWxvZHk9YXJyYW5nZSgKICBbMTIsICItIl0sCiAgWzIwLCAiPGcyIF8gXyBfIF8gZ2IyIGcyIGQyIF8gXyBfIF8gXyBnYjIgZzIgYTEgXyBfIF8gXyBfIGIxIGUyIGdiMiBfIF8gXyBfIF8gYSBnIGE%2BKjgiXSwKICBbMSwgImcyIl0sCikKJDogbm90ZShtZWxvZHkpLnMoInN0cnVkZWxzYW1wbGVzMTo3IikudHJhbnNwb3NlKDUpLnJlbGVhc2UoMCkucm9vbSgwLjUpLmdhaW4oMS4zKQoKCgphcnA6IG5vdGUoIjxjNCBlNCBnNCBiNCBnMyBiMyBkNCBnYjQgYTMgZGI0IGQ0IGdiNCBhNCBnYjQgZDQgYjQ%2BKjQiKS50cmFuc3Bvc2UoLTMxKS5zKCJzdHJ1ZGVsc2FtcGxlczE6NiIpLnJlbGVhc2UoMCkuZGVsYXkoMC40KS5yb29tKDAuMykuZ2FpbigwLjQpCgoKCmxldCBraWNrc25hcmU9YXJyYW5nZSgKICBbMTUuNzUsICI8YmQgLSAtIGJkIHNkIC0gLSBiZCAtIHNkIC0gLSBzZCAtIC0gYmQ%2BKjgiXSwKICBbLjI1LCAiLSJdLAogIFsxNiwgIjxiZCAtIC0gYmQgc2QgLSAtIGJkIC0gc2QgLSAtIHNkIC0gLSBiZD4qOCJdLAogIFsxNiwgIi0iXSwKKQokOiBzKGtpY2tzbmFyZSkKCmxldCBoYXRzPWFycmFuZ2UoCiAgWzE1Ljc1LCAiPC0gaGggaGggLSAtIGhoIGhoIC0gaGggLSBvaCAtIGhoIGhoIGhoIC0%2BKjgiXSwKICBbLjI1LCAiLSJdLAogIFsxNiwgIjwtIGhoIGhoIC0gLSBoaCBoaCAtIGhoIC0gb2ggLSBoaCBoaCBoaCAtPio4Il0sCiAgWzE2LCAiLSJdLAopCiQ6IHMoaGF0cykuYmFuaygiYWxlc2lzc3IxNiIpCg%3D%3D)
-9. 
+9. Star
+
+    [Code](https://strudel.cc/#CnNldGNwbSgyMikKCi8vRHJ1bXMgaW5zcGlyZWQgYnkgJ2VhcmluZ3MnIGJ5IG1hbGNvbSB0b2RkCgpjaG9yZHM6IGNob3JkKCI8RE03IEMjTSBGI203IEFNNz4iKS52b2ljaW5nKCkucygiZ21fcGFkX2Nob2lyIikucGFuKDAuNSkucmVsZWFzZSgwKS5nYWluKDAuOSkKCgpfYmFzc2E6IG5vdGUoIjxkMiE3IFtkMiAtIC0gLV0gYyMyITcgW2MjMiAtIC0gLV0gRiMxITcgW0YjMSAtIC0gLV0gYTEhNyBbYTEgLSAtIC1dPio4IikucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5nYWluKDEuNCkKCmJhc3NiOiBub3RlKCI8ZDIhOCBjIzIhOCBGIzEhOCBhMSE4ID4qOCIpLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikuZ2FpbigxLjQpCgoKZHVhbG1lbG9keW9uZTogbm90ZSgiPGExIF8gXyBfIGExIGIxIGRiMiBlMiBfIF8gZGIyIF8gYjEgZGIyIGIxIGFiMSBkYjIgXyBfIF8gXyBlMiBmIzIgYTIgXyBfIGYjMiBfIGUyIGRiMiBfIGFiMT4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC40KQoKZHVhbG1lbG9keXR3bzogbm90ZSgiPGQxIF8gXyBfIGQxIGUxIGQxIGRiMSBfIF8gXyBjMSBkYjEgZDEgZGIxIGIwIGEwIF8gXyBfIF8gXyBhMCBlMSBfIF8gZGIxIF8gYjAgZGIxIGIwIGFiMD4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC42KQoKCl9raWNrYTogbm90ZSgiYzIgYzIgYzIgYzIgYzIgYzIgYzIgW2MyIC0gLSAtXSIpLnMoImFrYWltcGM2MF9iZCIpCgpraWNrYjogcygiYmQgYmQgLSAtIC0gYmQgLSAtIikucygiYWthaW1wYzYwX2JkIikuZ2FpbigwLjcpCnNuYXJlOiBzKCItIC0gc2QgWy0gc2RdIFstIHNkXSAtIHNkIC0iKS5zKCJjaXJjdWl0c3RvbV9zZCIpLmdhaW4oMC41KQpoaWhhdDogcygiaGggaGggaGggaGggaGggLSBoaCBoaCIpLnMoInNyMTZfaGgiKQpvcGVuaGF0OiBub3RlKCItITUgYzIgLSEyIikucygiYm9zc2RyNTUwX29oIikucmVsZWFzZSgwKQo%3D)
 10. 
 
 (Ten songs is the goal!)
@@ -42,11 +45,11 @@ The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'S
 
 ### Total
 
-Total - ~16.2 hrs atm
+Total - 18.8 hrs atm
 
-Tracks - 14.2 hrs atm (Hackatime disagrees with the math below and idk why </3)
+Tracks - ~16.5 hrs atm (Hackatime disagrees with the math below and idk why </3)
 
-Other - ~2 hrs atm
+Other - 2.3 hrs atm
 
 ### Tracks
 
@@ -91,18 +94,18 @@ Other - ~2 hrs atm
 8. Code - 1 hour (1 hr)
 
     Code/Arrangement - 1 hour (1 hr) 
-9. 
+9. Star - 2 hours 8 mins (~2.1 hrs)
+
+    Code - 51 mins (~0.8 hrs)
+
+    Arrangement/Singing - 1 hour 17 mins (~1.3 hrs)
 10. 
 
 ### Other
 
-Website - 40 mins atm
+Website - 41 mins atm
 
-README - 1 hour 19 mins atm
-
-## AI Disclosure
-
-I try to avoid AI as much as possible. I rarely went to AI in the music making process. I either used the learning documents or asked AI how to do specific things in the code. I didn't ONCE use AI to write code in this whole project's process. No AI was used while making the website.
+README - 1 hour 37 mins atm
 
 ## Lyrics
 
@@ -168,6 +171,46 @@ Cause although it can bring despair and pains
 
 There always will be seeds in the remains
 
+### Star
+
+I try with all my might but it is just so hard to fight
+
+So I will find some other way and pray that dawn will come someday
+
+I push through with smile even though It has been a while
+
+Since I have felt that joy again, why can’t we all go back to then
+
+Surely this all has reason, surely it's just a bad season
+
+Surely life isn't this broken, surely there’s something unsaid
+
+I think of what it is, I search for the meaning of this
+
+You and me came from somewhere far, maybe we all are from a star
+
+Maybe we all are from a star, maybe we all are from a star
+
+Maybe we all are from a star, maybe we all are from a star
+
+Maybe we all are from a star, maybe we all are from a star
+
+Maybe we all are from a star, maybe we all are from a star
+
+You're a star
+
+You're a star
+
+You're a star
+
+## Credits/Inspiration
+
+The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by the song 'My Head' by lando! The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall.
+
 ## Screenshots
 
 To be added eventually
+
+## AI Disclosure
+
+I try to avoid AI as much as possible. I rarely went to AI in the music making process. I either used the learning documents or asked AI how to do specific things in the code. I didn't ONCE use AI to write code in this whole project's process. No AI was used while making the website.
