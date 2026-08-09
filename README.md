@@ -49,11 +49,11 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 ### Total
 
-[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - 19.4 hrs atm
+[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - ~ 20.5 hrs atm
 
-Tracks - 16.8 hrs atm
+Tracks - ~ 16.8 hrs atm
 
-Other - 2.5 hrs atm
+Other - ~ 3.7 hrs atm
 
 ### Tracks
 
@@ -111,9 +111,9 @@ Other - 2.5 hrs atm
 
 ### Other
 
-Website - 41 mins atm
+Website - 1 hour 49 mins (~1.8 hrs)atm
 
-README - 1 hour 48 mins atm
+README - 1 hour 56 mins (~1.9 hrs)atm
 
 ## Lyrics
 
