@@ -54,6 +54,7 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 Tracks - 16.8 hrs atm
 
+<<<<<<< HEAD
 Other - 3.9 hrs atm
 
 ### Tracks
@@ -204,11 +205,13 @@ Maybe we all are from a star, maybe we all are from a star
 
 Maybe we all are from a star, maybe we all are from a star
 
-Maybe we all are from a star, maybe we all are from a star
+Maybe we all are from a star, maybe we all are from a star (Maybe we-)
 
-You're a star
+You're a star, you're a star
 
-You're a star
+Maybe we- Maybe we all are from a star
+
+You're a sta-, you're a sta-
 
 You're a star
 
