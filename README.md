@@ -54,7 +54,6 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 Tracks - 16.8 hrs atm
 
-<<<<<<< HEAD
 Other - 3.9 hrs atm
 
 ### Tracks
