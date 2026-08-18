@@ -41,7 +41,10 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 9. Code
 
     [Code](https://strudel.cc/#CnNldGNwbSgyOS41KQoKbGV0IGNob3Jkcz1hcnJhbmdlKAogIFs4LCAiLSJdLAogIFs0LCAiPFtjMyBjNCBjNCBjMyBjNCBjNCBbYzMgYzNdIGM0XSBbZzIgZzMgZzMgZzIgZzMgZzMgW2cyIGcyXSBnM10gW2QyIGQzIGQzIGQyIGQzIGQzIFtkMiBkMl0gZDNdITI%2BIl0sCiAgWzMuNSwgIjxbYzIgYzMgYzMgYzIgYzMgYzMgW2MyIGMyXSBjM10gW2cyIGczIGczIGcyIGczIGczIFtnMiBnMl0gZzNdIFtkMiBkMyBkMyBkMiBkMyBkMyBbZDIgZDJdIGQzXSEyPiJdLAogIFswLjUsICItIl0sCiAgWzQsICI8W2MzIGM0IGM0IGMzIGM0IGM0IFtjMyBjM10gYzRdIFtnMiBnMyBnMyBnMiBnMyBnMyBbZzIgZzJdIGczXSBbZDIgZDMgZDMgZDIgZDMgZDMgW2QyIGQyXSBkM10hMj4iXSwKICBbNCwgIjxbYzIgYzMgYzMgYzIgYzMgYzMgW2MyIGMyXSBjM10gW2cyIGczIGczIGcyIGczIGczIFtnMiBnMl0gZzNdIFtkMiBkMyBkMyBkMiBkMyBkMyBbZDIgZDJdIGQzXSEyPiJdLAogIFs0LCAiPFtjMyBjNCBjNCBjMyBjNCBjNCBbYzMgYzNdIGM0XSBbZzIgZzMgZzMgZzIgZzMgZzMgW2cyIGcyXSBnM10gW2QyIGQzIGQzIGQyIGQzIGQzIFtkMiBkMl0gZDNdITI%2BIl0sCiAgWzQsICI8W2MyIGMzIGMzIGMyIGMzIGMzIFtjMiBjMl0gYzNdIFtnMiBnMyBnMyBnMiBnMyBnMyBbZzIgZzJdIGczXSBbZDIgZDMgZDMgZDIgZDMgZDMgW2QyIGQyXSBkM10hMj4iXSwKKQokOiBub3RlKGNob3Jkcykucygic3RydWRlbHNhbXBsZXMxIikucmVsZWFzZSgwKS5kaXN0KDAuNikuZ2FpbigwLjMpLnRyYW5zcG9zZSgtOSkKCgoKbGV0IGJhc3M9YXJyYW5nZSgKICBbMTYsICItIl0sCiAgWzE2LCAiPGMyIGcxIGQxIF8gYzEgZzEgZDEgXz4iXQopCiQ6IG5vdGUoYmFzcykudHJhbnNwb3NlKDUpLmRpc3QoMSkuZ2FpbigwLjcpCgoKCmxldCBtZWxvZHk9YXJyYW5nZSgKICBbMTIsICItIl0sCiAgWzIwLCAiPGcyIF8gXyBfIF8gZ2IyIGcyIGQyIF8gXyBfIF8gXyBnYjIgZzIgYTEgXyBfIF8gXyBfIGIxIGUyIGdiMiBfIF8gXyBfIF8gYSBnIGE%2BKjgiXSwKICBbMSwgImcyIl0sCikKJDogbm90ZShtZWxvZHkpLnMoInN0cnVkZWxzYW1wbGVzMTo3IikudHJhbnNwb3NlKDUpLnJlbGVhc2UoMCkucm9vbSgwLjUpLmdhaW4oMS4zKQoKCgphcnA6IG5vdGUoIjxjNCBlNCBnNCBiNCBnMyBiMyBkNCBnYjQgYTMgZGI0IGQ0IGdiNCBhNCBnYjQgZDQgYjQ%2BKjQiKS50cmFuc3Bvc2UoLTMxKS5zKCJzdHJ1ZGVsc2FtcGxlczE6NiIpLnJlbGVhc2UoMCkuZGVsYXkoMC40KS5yb29tKDAuMykuZ2FpbigwLjQpCgoKCmxldCBraWNrc25hcmU9YXJyYW5nZSgKICBbMTUuNzUsICI8YmQgLSAtIGJkIHNkIC0gLSBiZCAtIHNkIC0gLSBzZCAtIC0gYmQ%2BKjgiXSwKICBbLjI1LCAiLSJdLAogIFsxNiwgIjxiZCAtIC0gYmQgc2QgLSAtIGJkIC0gc2QgLSAtIHNkIC0gLSBiZD4qOCJdLAogIFsxNiwgIi0iXSwKKQokOiBzKGtpY2tzbmFyZSkKCmxldCBoYXRzPWFycmFuZ2UoCiAgWzE1Ljc1LCAiPC0gaGggaGggLSAtIGhoIGhoIC0gaGggLSBvaCAtIGhoIGhoIGhoIC0%2BKjgiXSwKICBbLjI1LCAiLSJdLAogIFsxNiwgIjwtIGhoIGhoIC0gLSBoaCBoaCAtIGhoIC0gb2ggLSBoaCBoaCBoaCAtPio4Il0sCiAgWzE2LCAiLSJdLAopCiQ6IHMoaGF0cykuYmFuaygiYWxlc2lzc3IxNiIpCg%3D%3D)
-10. Star
+10. In Your Head
+
+    [Code](https://strudel.cc/#CnNldGNwbSgxMTgvNCkKCgpsZXQgQ2hvcmRzPWFycmFuZ2UoCiAgWzIsICI8YzAgYzEgW2UxLGExXSBjMCBjMSBbZTEsYjFdIGMwIGMxIFtlMSxhMV0gYzAgYzEgW2UxLGIxXSBjMCBjMSBbZTEsYjFdIGMwPio4Il0sCiAgWzIsICI8ZTAgZDEgW2UxLGcxLGQyXSBlMCBkMSBbZTEsZzEsYjFdIGUwIGQxIFtnYjEsYTFdIGctMSBnMCBbZ2IxLGIxXSBnLTEgZzAgW2diMSxhMV0gZy0xPio4Il0KKQokOiBub3RlKENob3Jkcykucygic3MyOjEiKS5yZWxlYXNlKDAuMykuZGlzdCgwLjQpLmdhaW4oMC4yKS5wYW4oMC40KQoKCkFycDogbm90ZSgiPFtnMiBkMyBhMiBiMiBkMyBiMiBhMiBiMl0hMiBbZzMgZDMgYjIgZ2IzIGQzIGIyIGEyIGIyXSBbZzIgZDMgYTIgYjIgZDMgYjIgYTIgYjJdPiIpLnMoInNzMiIpLnRyYW5zcG9zZSgiLTEwIikuZ2FpbigwLjI1KS5wYW4oMC42KS5yb29tKDAuMykKCgpEcnVtczogcygiYmQgc2QgWy0gYmRdIHNkIikuYmFuaygiOTAwMCIpLmRpc3QoMC40KQpoYXRzOiBzKCJoaCo4IikucygiYWxlc2lzc3IxNl9oaCIpLmdhaW4oMC40NykKX3JpZGVzOiBzKCJyZCo4IikucygiYWxlc2lzc3IxNl9yZCIpLmdhaW4oMC40NykKY3Jhc2g6IHMoIjxjciBfPiIpLnMoImFrYWlsaW5uX2NyIikuZ2FpbigwLjQ3KQoKQ2hvcmRzMjogbm90ZSgiPFtDMixHMixFMyxHMyxCMyxFNF0gXyBbRTIsQjIsRTIsRzMsQjMsRzRdICBbRzIsQjIsRDMsR2IzLEIzLEdiNF0gID4qIDEiKS5zKCJnbV9lbGVjdHJpY19ndWl0YXJfY2xlYW4iKS50cmFuc3Bvc2UoIjEyIikKCgpiYXNzOiBub3RlKCI8YzIhMTYgZTIhOCBnMSE4Pio4IikucygiZ21fZWxlY3RyaWNfYmFzc19waWNrIikuZGlzdCgxKS5nYWluKDAuNikK)
+11. Star
 
     [Code](https://strudel.cc/#CnNldGNwbSgyMikKCi8vRHJ1bXMgaW5zcGlyZWQgYnkgJ2VhcmluZ3MnIGJ5IG1hbGNvbSB0b2RkCgpjaG9yZHM6IGNob3JkKCI8RE03IEMjTSBGI203IEFNNz4iKS52b2ljaW5nKCkucygiZ21fcGFkX2Nob2lyIikucGFuKDAuNSkucmVsZWFzZSgwKS5nYWluKDAuOSkKCgpfYmFzc2E6IG5vdGUoIjxkMiE3IFtkMiAtIC0gLV0gYyMyITcgW2MjMiAtIC0gLV0gRiMxITcgW0YjMSAtIC0gLV0gYTEhNyBbYTEgLSAtIC1dPio4IikucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5nYWluKDEuNCkKCmJhc3NiOiBub3RlKCI8ZDIhOCBjIzIhOCBGIzEhOCBhMSE4ID4qOCIpLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikuZ2FpbigxLjQpCgoKZHVhbG1lbG9keW9uZTogbm90ZSgiPGExIF8gXyBfIGExIGIxIGRiMiBlMiBfIF8gZGIyIF8gYjEgZGIyIGIxIGFiMSBkYjIgXyBfIF8gXyBlMiBmIzIgYTIgXyBfIGYjMiBfIGUyIGRiMiBfIGFiMT4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC40KQoKZHVhbG1lbG9keXR3bzogbm90ZSgiPGQxIF8gXyBfIGQxIGUxIGQxIGRiMSBfIF8gXyBjMSBkYjEgZDEgZGIxIGIwIGEwIF8gXyBfIF8gXyBhMCBlMSBfIF8gZGIxIF8gYjAgZGIxIGIwIGFiMD4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC42KQoKCl9raWNrYTogbm90ZSgiYzIgYzIgYzIgYzIgYzIgYzIgYzIgW2MyIC0gLSAtXSIpLnMoImFrYWltcGM2MF9iZCIpCgpraWNrYjogcygiYmQgYmQgLSAtIC0gYmQgLSAtIikucygiYWthaW1wYzYwX2JkIikuZ2FpbigwLjcpCnNuYXJlOiBzKCItIC0gc2QgWy0gc2RdIFstIHNkXSAtIHNkIC0iKS5zKCJjaXJjdWl0c3RvbV9zZCIpLmdhaW4oMC41KQpoaWhhdDogcygiaGggaGggaGggaGggaGggLSBoaCBoaCIpLnMoInNyMTZfaGgiKQpvcGVuaGF0OiBub3RlKCItITUgYzIgLSEyIikucygiYm9zc2RyNTUwX29oIikucmVsZWFzZSgwKQo%3D)
 
@@ -50,36 +53,26 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 ### Total
 
-[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - 20.6 hrs atm
+[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - 22.9 hrs atm
 
-Tracks - 16.8 hrs atm
+Tracks - 18.6 hrs atm
 
-Other - 3.9 hrs atm
+Other - 4.3 hrs atm
 
 ### Tracks
 
 1. Fruit - 2 hours 18 mins (2.3 hrs)
 
-    Code - 1 hour 7 mins (~1.1 hrs)
-
-    Arrangement - 1 hour 11 minutes (~1.2 hrs)
+    Code - 1 hour 7 mins (~1.1 hrs)   Arrangement - 1 hour 11 minutes (~1.2 hrs)
 2. Something - 1 hour 42 minutes (1.7 hrs)
 
-    Code - 1 hour (1 hr)
-   
-    Arrangement/Singing - 42 minutes (0.7 hrs)
+    Code - 1 hour (1 hr)   Arrangement/Singing - 42 minutes (0.7 hrs)
 3. Connect - 1 hour 28 mins (~1.5 hrs)
 
-    Code - 55 mins (~0.9 hrs)
-   
-    Arrangement - 33 mins (~0.5 hrs)
+    Code - 55 mins (~0.9 hrs)   Arrangement - 33 mins (~0.5 hrs)
 4. Scared - 2 hours 24 minutes (2.4 hrs)
 
-    Code - 46 mins (~0.8 hrs)
-
-    Arrangement - 49 mins (~0.8 hrs)
-
-    Lyrics/Singing - 49 mins (~0.8 hrs)
+    Code - 46 mins (~0.8 hrs)   Arrangement - 49 mins (~0.8 hrs)   Lyrics/Singing - 49 mins (~0.8 hrs)
 5. Inspire - 2 hours 6 mins (2.1 hrs)
 
     Code - 2 hours 6 mins (2.1 hrs)
@@ -88,37 +81,32 @@ Other - 3.9 hrs atm
 
 6. Somehow (Cover) - 1 hour 30 mins (1.5 hrs)
 
-    Code - 1 hour 30 mins (1.5 hrs)
-   
-    Arrangement/Singing - ??? (I forgot to record it)
+    Code - 1 hour 30 mins (1.5 hrs)   Arrangement/Singing - ??? (I forgot to record it)
 7. Ship - 1 hour 13 mins (~1.2 hrs)
 
-    Code - 40 mins (~0.7 hrs)
-
-    Arranging - 33 mins (~0.5 hrs)
+    Code - 40 mins (~0.7 hrs)   Arranging - 33 mins (~0.5 hrs)
 8. Eclipse - 58 mins (~1 hr)
 
-    Code - 29 mins (~0.5 hrs)
-
-    Arrangement - 29 mins (~0.5 hrs)
+    Code - 29 mins (~0.5 hrs)   Arrangement - 29 mins (~0.5 hrs)
 9. Code - 1 hour (1 hr)
 
     Code/Arrangement - 1 hour (1 hr) 
-10. Star - 2 hours 8 mins (~2.1 hrs)
+10. In Your Head - 1 hour 49 minutes (~1.8 hrs)
 
-    Code - 51 mins (~0.8 hrs)
+    Code - 39 mins (~0.6 hrs)   Arrangement - 42 mins (~0.7 hrs)   Lyrics/Singing - 28 mins (~0.5 hrs)
+11. Star - 2 hours 8 mins (~2.1 hrs)
 
-    Arrangement/Singing - 1 hour 17 mins (~1.3 hrs)
+    Code - 51 mins (~0.8 hrs)   Arrangement/Singing - 1 hour 17 mins (~1.3 hrs)
 
 ### Other
 
-Website - 1 hour 55 mins atm
+Website - 2 hours 1 min atm
 
-README - 1 hour 58 mins atm
+README - 2 hours 15 mins atm
 
 ## Lyrics
 
-### Something
+### 2. Something
 
 I just want to know where I should go
 
@@ -136,7 +124,7 @@ I just want to do something, I just want to move on
 
 I just need some time now, but maybe it’s all gone
 
-### Scared
+### 4. Scared
 
 I dont want to let it go  
 
@@ -162,7 +150,7 @@ I know it will be very rough
 
 I dont know if im strong enough
 
-### Somehow (Cover)
+### 6. Somehow (Cover)
 
 Some things could stay worse
 
@@ -180,7 +168,21 @@ Cause although it can bring despair and pains
 
 There always will be seeds in the remains
 
-### Star
+### 10. In Your Head
+
+It infects me all throughout
+
+It's like there’s no way out
+
+It feels like there’s a roadblock that’s turning me inside out
+
+It gets into my head
+
+I’m hanging by thread
+
+I just wish that someone could grab the rope and pull me out
+
+### 11. Star
 
 I try with all my might but it is just so hard to fight
 
@@ -216,7 +218,7 @@ You're a star
 
 ## Credits/Inspiration
 
-The track 'Connect' was heavily inspired by a instagram reel I saw. The track 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall.
+The song 'Connect' was heavily inspired by a instagram reel I saw. The song 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'In Your Head' takes a melody from the song 'Now' by UNIT_13. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall.
 
 ## Images
 

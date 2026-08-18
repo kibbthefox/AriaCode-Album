@@ -1,0 +1,23 @@
+
+setcpm(118/4)
+
+
+let Chords=arrange(
+  [2, "<c0 c1 [e1,a1] c0 c1 [e1,b1] c0 c1 [e1,a1] c0 c1 [e1,b1] c0 c1 [e1,b1] c0>*8"],
+  [2, "<e0 d1 [e1,g1,d2] e0 d1 [e1,g1,b1] e0 d1 [gb1,a1] g-1 g0 [gb1,b1] g-1 g0 [gb1,a1] g-1>*8"]
+)
+$: note(Chords).s("ss2:1").release(0.3).dist(0.4).gain(0.2).pan(0.4)
+
+
+Arp: note("<[g2 d3 a2 b2 d3 b2 a2 b2]!2 [g3 d3 b2 gb3 d3 b2 a2 b2] [g2 d3 a2 b2 d3 b2 a2 b2]>").s("ss2").transpose("-10").gain(0.25).pan(0.6).room(0.3)
+
+
+Drums: s("bd sd [- bd] sd").bank("9000").dist(0.4)
+hats: s("hh*8").s("alesissr16_hh").gain(0.47)
+_rides: s("rd*8").s("alesissr16_rd").gain(0.47)
+crash: s("<cr _>").s("akailinn_cr").gain(0.47)
+
+Chords2: note("<[C2,G2,E3,G3,B3,E4] _ [E2,B2,E2,G3,B3,G4]  [G2,B2,D3,Gb3,B3,Gb4]  >* 1").s("gm_electric_guitar_clean").transpose("12")
+
+
+bass: note("<c2!16 e2!8 g1!8>*8").s("gm_electric_bass_pick").dist(1).gain(0.6)
