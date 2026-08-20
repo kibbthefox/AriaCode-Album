@@ -47,62 +47,22 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 11. Star
 
     [Code](https://strudel.cc/#CnNldGNwbSgyMikKCi8vRHJ1bXMgaW5zcGlyZWQgYnkgJ2VhcmluZ3MnIGJ5IG1hbGNvbSB0b2RkCgpjaG9yZHM6IGNob3JkKCI8RE03IEMjTSBGI203IEFNNz4iKS52b2ljaW5nKCkucygiZ21fcGFkX2Nob2lyIikucGFuKDAuNSkucmVsZWFzZSgwKS5nYWluKDAuOSkKCgpfYmFzc2E6IG5vdGUoIjxkMiE3IFtkMiAtIC0gLV0gYyMyITcgW2MjMiAtIC0gLV0gRiMxITcgW0YjMSAtIC0gLV0gYTEhNyBbYTEgLSAtIC1dPio4IikucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5nYWluKDEuNCkKCmJhc3NiOiBub3RlKCI8ZDIhOCBjIzIhOCBGIzEhOCBhMSE4ID4qOCIpLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikuZ2FpbigxLjQpCgoKZHVhbG1lbG9keW9uZTogbm90ZSgiPGExIF8gXyBfIGExIGIxIGRiMiBlMiBfIF8gZGIyIF8gYjEgZGIyIGIxIGFiMSBkYjIgXyBfIF8gXyBlMiBmIzIgYTIgXyBfIGYjMiBfIGUyIGRiMiBfIGFiMT4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC40KQoKZHVhbG1lbG9keXR3bzogbm90ZSgiPGQxIF8gXyBfIGQxIGUxIGQxIGRiMSBfIF8gXyBjMSBkYjEgZDEgZGIxIGIwIGEwIF8gXyBfIF8gXyBhMCBlMSBfIF8gZGIxIF8gYjAgZGIxIGIwIGFiMD4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC42KQoKCl9raWNrYTogbm90ZSgiYzIgYzIgYzIgYzIgYzIgYzIgYzIgW2MyIC0gLSAtXSIpLnMoImFrYWltcGM2MF9iZCIpCgpraWNrYjogcygiYmQgYmQgLSAtIC0gYmQgLSAtIikucygiYWthaW1wYzYwX2JkIikuZ2FpbigwLjcpCnNuYXJlOiBzKCItIC0gc2QgWy0gc2RdIFstIHNkXSAtIHNkIC0iKS5zKCJjaXJjdWl0c3RvbV9zZCIpLmdhaW4oMC41KQpoaWhhdDogcygiaGggaGggaGggaGggaGggLSBoaCBoaCIpLnMoInNyMTZfaGgiKQpvcGVuaGF0OiBub3RlKCItITUgYzIgLSEyIikucygiYm9zc2RyNTUwX29oIikucmVsZWFzZSgwKQo%3D)
+12. I Won't
+
+    [Code](https://strudel.cc/#CnNldGNwbSgxNTAvNCkKCmxldCBwaWFubz1hcnJhbmdlKAogIFsyLCAiPGMzIGM0IFtlNCxnNCxiNF0gZzMgYzQgW2U0LGc0LGI0XSBjMyBjNCBbZWI0LGdiNCxiNF0gZzMgYzQgW2ViNCxnYjQsYjRdIFtnMyxnNF0gW2diMyxnYjRdIFtnMyxnNF0gYTQ%2BKjgiXSwKICBbMiwgIjxnMiBnMyBbYjMsZDQsZ2I0LGE0XSBkMyBnMyBbYjMsZDQsZ2I0LGE0XSBnMiBnMyBbYjMsZDQsZ2I0LGI0XSBkMyBnMyBbYjMsZDQsZ2I0LGE0XSBnMiBnMyBbYjMsZDQsZ2I0LGE0XSBiND4qOCJdCikKJDogbm90ZShwaWFubykucygic3RlaW53YXkiKS5yZWxlYXNlKDAuMSkuc3dpbmdCeSgxLzMsIDQpLnRyYW5zcG9zZSgxMikuZ2FpbigwLjMpCgpsZXQgY2hvcmRzPWFycmFuZ2UoCiAgWzEsICI8W2M0LGU0LGc0LGI0IF8gXyBfIF8gYTQgXyBfXSBbZzMsYjMsZDQsZ2I0LGI0IF8gXyBfIF8gYTQgXyBfXT4qMS8yIl0KKQokOiBub3RlKGNob3JkcykucygiZ21fZXBpYW5vMToxIikKCmxldCBiYXNzPWFycmFuZ2UoCiAgWzgsICI8YzIgXyBfIF8gXyBiMSBfIF8gZzEgXyBfIF8gXyBfIF8gXyBjMSBfIF8gXyBfIGIxIF8gXyBnMSBfIF8gXyBfIF8gXyBfID4qNCJdLAopCiQ6IG5vdGUoYmFzcykucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5kaXN0KDEpLmdhaW4oMC40KQoKbGV0IG1lbG9keT1hcnJhbmdlKAogIFs0LCAiPGc1IF8gLSAtIC0gLSBnYjUgZDUgXyAtIC0gLSAtIC0gYzUgYjQgXyAtIC0gLSAtIC0gYjQgYzUgXyAtIC0gLSAtIC0gYzUgYjQ%2BKjgiXSwKICBbNCwgIjwtIC0gLSAtIC0gLSBhNCBiNCBfIC0gLSAtIC0gLSBhNCBnNCBfIC0gLSAtIC0gLSBnNCBkNSBfIC0gLSAtIC0gLSBkNSBnNT4qOCJdCikKJDogbm90ZShtZWxvZHkpLnMoImdtX211c2ljX2JveDoxIikuc3dpbmdCeSgxLzMsIDQpLnJlbGVhc2UoMS41KQoKbGV0IHN0cmluZz1hcnJhbmdlKAogIFsxLCAiPGQ0IGc0IGI0IGQ1IGc1IGE1IGQ2IFtnYjYgZzZdIGE2IGQ3IGdiNyBnNz4qMS80Il0KKQokOiBub3RlKHN0cmluZykucygiZ21fc3RyaW5nX2Vuc2VtYmxlXzEiKS5yZWxlYXNlKDEyMCkuZ2FpbigwLjQp)
 
 
 ## Hours Spent
 
-### Total
+This section exists for the person reviewing my hackclub ship because [my hackatime project](https://hackatime.hackclub.com/@KibbTheFox/project/AriaCode+Album) disagrees with lapse on how many lapse hours I did and because I forgot to record an hour of making a song.
 
-[Total](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing) - 22.9 hrs atm
+Total - 25.2 hrs atm
 
-Tracks - 18.6 hrs atm
+Tracks - 20.4 hrs atm
 
-Other - 4.3 hrs atm
+Website/README - 4.8 hrs atm
 
-### Tracks
-
-1. Fruit - 2 hours 18 mins (2.3 hrs)
-
-    Code - 1 hour 7 mins (~1.1 hrs)   Arrangement - 1 hour 11 minutes (~1.2 hrs)
-2. Something - 1 hour 42 minutes (1.7 hrs)
-
-    Code - 1 hour (1 hr)   Arrangement/Singing - 42 minutes (0.7 hrs)
-3. Connect - 1 hour 28 mins (~1.5 hrs)
-
-    Code - 55 mins (~0.9 hrs)   Arrangement - 33 mins (~0.5 hrs)
-4. Scared - 2 hours 24 minutes (2.4 hrs)
-
-    Code - 46 mins (~0.8 hrs)   Arrangement - 49 mins (~0.8 hrs)   Lyrics/Singing - 49 mins (~0.8 hrs)
-5. Inspire - 2 hours 6 mins (2.1 hrs)
-
-    Code - 2 hours 6 mins (2.1 hrs)
-
-    I stopped the recording halfway through so I only have an 1 hour and 3 minutes of footage shown. I actually worked on it for close to ~2.3 hours. I got to 2 hours by just doubling the one hour I had recorded.
-
-6. Somehow (Cover) - 1 hour 30 mins (1.5 hrs)
-
-    Code - 1 hour 30 mins (1.5 hrs)   Arrangement/Singing - ??? (I forgot to record it)
-7. Ship - 1 hour 13 mins (~1.2 hrs)
-
-    Code - 40 mins (~0.7 hrs)   Arranging - 33 mins (~0.5 hrs)
-8. Eclipse - 58 mins (~1 hr)
-
-    Code - 29 mins (~0.5 hrs)   Arrangement - 29 mins (~0.5 hrs)
-9. Code - 1 hour (1 hr)
-
-    Code/Arrangement - 1 hour (1 hr) 
-10. In Your Head - 1 hour 49 minutes (~1.8 hrs)
-
-    Code - 39 mins (~0.6 hrs)   Arrangement - 42 mins (~0.7 hrs)   Lyrics/Singing - 28 mins (~0.5 hrs)
-11. Star - 2 hours 8 mins (~2.1 hrs)
-
-    Code - 51 mins (~0.8 hrs)   Arrangement/Singing - 1 hour 17 mins (~1.3 hrs)
-
-### Other
-
-Website - 2 hours 1 min atm
-
-README - 2 hours 15 mins atm
+[Link to spreadsheet](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing)
 
 ## Lyrics
 
@@ -216,9 +176,23 @@ You're a sta-, you're a sta-
 
 You're a star
 
+### 12. I Won't
+
+I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
+And I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
+And I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
+And I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
+And I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
+And I won't give up, and I won't give up, and I won't back down, and I won't give up 
+
 ## Credits/Inspiration
 
-The song 'Connect' was heavily inspired by a instagram reel I saw. The song 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'In Your Head' takes a melody from the song 'Now' by UNIT_13. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall.
+The song 'Connect' was heavily inspired by a instagram reel I saw. The song 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'In Your Head' takes a melody from the song 'Now' by UNIT_13. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall. The song 'I Won't' has a melody inspired by a melody in the song 'If I Really' by lando! and has strings inspired by 'itsbeenalongtime' by bloodrings (also known as lando!).
 
 ## Images
 
