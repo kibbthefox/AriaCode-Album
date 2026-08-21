@@ -1,0 +1,78 @@
+
+setcpm(170/4)
+
+let chords=arrange(
+  [15, "<[c4,eb4,g4,bb4] - [c4,eb4,g4,bb4]!2 -!4 [c4,eb4,g4,ab3] - [c4,eb4,g4,ab3]!2 -!4 [c4,eb4,f3,ab3] - [c4,eb4,f3,ab3]!2 -!4 [g3,b3,d4,f4] - [g3,b3,d4,f4]!2 -!4>*8"],
+  [1, "-"],
+  [64, "<[c4,eb4,g4,bb4] - [c4,eb4,g4,bb4]!2 -!4 [c4,eb4,g4,ab3] - [c4,eb4,g4,ab3]!2 -!4 [c4,eb4,f3,ab3] - [c4,eb4,f3,ab3]!2 -!4 [g3,b3,d4,f4] - [g3,b3,d4,f4]!2 -!4>*8"],
+)
+$: note(chords).s("casiofantasy").release(0.01).transpose(-24).gain(0.6)
+
+
+let melodyone=arrange(
+  [16, "-"],
+  [31, "<c4 _ _ _ g4 eb4 ab3 c4 f3 _ _ _ g3 f4 b3 d4>*4"],
+  [1, "-"],
+  [32, "<c4 _ _ _ g4 eb4 ab3 c4 f3 _ _ _ g3 f4 b3 d4>*4"],
+)
+$: note(melodyone).s("gm_pad_poly").pan(0.4).gain(0.9).release(0).room(0.3)
+
+
+let melodytwo=arrange(
+  [16, "-"],
+  [31, "<-!5 eb4 g4 -!6 c4 eb4 -!6 ab3 c4 -!5 d4 f4 b3 d4>*8"],
+  [1, "-"],
+  [32, "<-!5 eb4 g4 -!6 c4 eb4 -!6 ab3 c4 -!5 d4 f4 b3 d4>*8"],
+)
+$: note(melodytwo).s("gm_lead_7_fifths").pan(0.6).gain(1.25).room(0.3)
+
+
+let bass=arrange(
+  [8, "-"],
+  [24, "<c3 _ _ [c3 ab2] - [ab2 -] [- ab2] - f2 _ _ [f2 g2] - [g2 -] [- g2] ->*4"],
+  [8, "-"],
+  [40, "<c3 _ _ [c3 ab2] - [ab2 -] [- ab2] - f2 _ _ [f2 g2] - [g2 -] [- g2] ->*4"],
+)
+$: note(bass).s("gm_orchestra_hit").release(0).transpose(12).gain(0.5)
+
+
+let chords2=arrange(
+  [48, "-"],
+  [32, "<[c4,eb4,g4,bb4] _ [c4,eb4,g4,ab3] _ [c4,eb4,f3,ab3] _ [g3,b3,d4,f4] _>*2"],
+)
+$: note(chords2).s("gm_synth_strings_1").release(0.01).gain(0.3)
+
+
+let melodythree=arrange(
+  [48, "-"],
+  [32, "<eb4 - f4 - g4 f4 eb4 d4 c4 - d4 - eb4 d4 c4 d4 ab3 - bb3 b3 c4 d4 eb4 b3 c4 - d4 - eb4 - d4 - >*8"],
+)
+$: note(melodythree).s("pulse").gain(1)
+
+
+
+let ride=arrange(
+  [16, "-"],
+  [31.5, "rd*4"],
+  [0.5, "-"],
+  [32, "rd*4"],
+)
+$: s(ride).s("linn_rd").gain(0.15)
+
+let snare=arrange(
+  [15, "<[- sd]!7 [- - - - sd - - sd]>"],
+  [1, "-"],
+  [31.5, "<[- sd]!7 [- - - - sd - - sd]>"],
+  [0.5, "-"],
+  [32, "<[- sd]!7 [- - - - sd - - sd]>"],
+)
+$: s(snare).s("9000_sd").dist(1).gain(0.5)
+
+let kick=arrange(
+  [16, "-"],
+  [31.5, "<bd - - bd - - - bd - bd bd - - - - bd>*8"],
+  [0.5, "-"],
+  [32, "<bd - - bd - - - bd - bd bd - - - - bd>*8"],
+)
+$: s(kick).s("9000_bd").dist(1).gain(0.5)
+
