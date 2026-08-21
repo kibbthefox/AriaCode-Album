@@ -59,11 +59,11 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 This section exists for the person reviewing my hackclub ship because [my hackatime project](https://hackatime.hackclub.com/@KibbTheFox/project/AriaCode+Album) disagrees with lapse on how many lapse hours I did and because I forgot to record an hour of making a song.
 
-Total - 25.2 hrs atm
+Total - 26.9 hrs atm
 
-Tracks - 21.9 hrs atm
+Tracks - 22 hrs atm
 
-Website/README - 4.8 hrs atm
+Website/README - 4.9 hrs atm
 
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing)
 
