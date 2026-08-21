@@ -1,0 +1,45 @@
+
+setcpm(150/4)
+
+let pianoone=arrange(
+  [8, "<[a4,db5,gb5,ab5,e6] _ [- e6] [db6 eb6] [ab4,c5,c65,ab5,eb6] _ [- eb6] [e6 eb6] [e4,ab4,eb5,e5,b5,gb6] _ [- ab6] [db7 ab6] [e4,ab4,eb5,e5,cb6] _ [e4,ab4,eb5,e5,gb5,b5] _>*4"],
+  [8, "<[a4,db5,gb5,ab5,e6] - [- ab6] [e6 gb6] [ab4,c5,c65,ab5,eb6] - [- a6] [eb6 e6] [e4,ab4,eb5,e5,b5,gb6] - [- gb6] [db6 e6] [e4,ab4,eb5,e5,cb6] _ [e4,ab4,eb5,e5,gb5,b5,eb6] _>*4"],
+  [8, "<[a4,db5,gb5,ab5,e6] _ _ _ _ _ _ - [ab4,c5,c65,ab5,eb6] _ _ _ _ _ _ - [e4,ab4,eb5,e5,b5,gb6] _ _ _ _ _ _ - [e4,ab4,eb5,e5,cb6] _ _ _ [e4,ab4,eb5,e5,gb5,b5,eb6] _ _ _>*8"],
+  [6, "<[a4,db5,- gb5 _ _, - ab5 _ _,- b6,- db7] - [ab4,c5,- ab5 _ _, - c6 _ _,- b6,- eb6] - [e4,ab5,- eb5 _ _, - e5 _ _,- gb6,- ab6] - [e4,ab5,- eb5 _ _, - e5 _ _,- b5,- cb6] ->*2"],
+  [4, "<[e4,ab4,eb5,e5,b5,gb6,ab6] [e4,ab4,eb5,e5,b5,db6,e6] _ ->"],
+)
+$: note(pianoone).s("kawai").transpose(-24).release(0.01).gain(0.3)
+
+let pianotwo=arrange(
+  [4, "-"],
+  [4, "<- - [- ab7] [ab7 ab7] - - [- gb7] [gb7 gb7] - - [- e7] [e7 e7] [ab7 ab7] [ab7 gb7] [gb7 gb7] [e7 e7]>*4"],
+  [4, "<- [- db7 _ _] _ b6 a6 e7 db7 eb7 - [- b6 _ _] _ a6 ab6 eb7 e7 eb7 - [- ab6 _ _] _ gb6 e6 ab6 db7 ab6 ab7!2 [ab7!2] gb7 [gb7!2]!2 e7 [e7 [e7!2]]>*8"],
+  [12, "<- [- db7 _ _] _ b6 a6 e7 db7 eb7 - [- b6 _ _] _ a6 ab6 eb7 e7 eb7 - [- ab6 _ _] _ gb6 e6 ab6 db7 ab6 ab7 ab7 ab7 gb7 gb7 gb7 e7 e7>*8"],
+  [10, "-"],
+)
+$: note(pianotwo).s("kawai").transpose(-24).release(0.01).gain(0.34)
+
+let pianothree=arrange(
+  [16, "-"],
+  [8, "<- - [- ab6] [e6 gb6] - - [- a6] [eb6 e6] - - [- gb6] [db6 e6] - - - ->*4"],
+  [4, "<-!3 e6 b6 db7 b6 ab6 -!3 eb6 e6 eb6 b5 ab5 -!3 b5 db6 ab6 gb6 eb6 e6 _ _ e6 ab6 e6 eb6 b5>*8"],
+  [2, "<db6 -!2 e6 b6 db7 b6 ab6 -!3 eb6 e6 eb6 b5 ab5>*8"],
+  [4, "-"],
+)
+$: note(pianothree).s("kawai").transpose(-24).release(0.01).gain(0.33)
+
+let bass=arrange(
+  [4, "<a3 _ _ [a3 -] -!3 db4 ab3 _ _ [ab3 -] -!3 a3 e3 _ _ [e3 -] -!2 [gb ab _ _] _ e3 _ _ [e3 -] -!2 g3 ab3>*8"],
+  [4, "<a3 _ _ [a3 -] - b3 db4 e4 ab3 _ _ [ab3 -] - eb4 d4 a3 e3 _ _ [e3 -] - e3 ab3 a3 ab3 gb3 b3 a3 ab3 a3 db4 e4>*8"],
+  [2, "<[a3 _ _ a3] [- a3!2 -] [-!2 a3 db4] [e4 db4 a3 b3] [ab3 _ _ ab3] [- ab3!2 -] [- e4] [db4 _ b3 db4]>*4"],
+  [2, "<[e3 _ _ e3] [- e3!2 -] [-!2 e3 ab3] [e4 ab3 b3 gb3] [e3 _ _ e3] [- e3!2 -] [- a3] [ab3 _ e3 gb3]>*4"],
+  [2, "<[a3 _ _ a3] [- a3!2 -] [-!2 a3 db4] [e4 db4 a3 b3] [ab3 _ _ ab3] [- ab3!2 -] [- e4] [db4 _ b3 db4]>*4"],
+  [2, "<[e3 _ _ e3] [- e3!2 -] [-!2 e3 ab3] [e4 ab3 b3 gb3] [e3 _ _ e3] [- e3!2 -] [- a3] [ab3 _ e3 gb3]>*4"],
+  [2, "<[a3 _ _ a3] [- a3!2 -] [-!2 a3 db4] [e4 db4 a3 b3] [ab3 _ _ ab3] [- ab3!2 -] [- e4] [db4 _ b3 db4]>*4"],
+  [2, "<[e3 _ _ e3] [- e3!2 -] [-!2 e3 ab3] [e4 ab3 b3 gb3] [e3 _ _ e3] [- e3!2 -] [- a3] [ab3 _ e3 gb3]>*4"],
+  [2, "<[a3 _ _ a3] [- a3!2 -] [-!2 a3 db4] [e4 db4 a3 b3] [ab3 _ _ ab3] [- ab3!2 -] [- e4] [db4 _ b3 db4]>*4"],
+  [2, "<[e3 _ _ e3] [- e3!2 -] [-!2 e3 ab3] [e4 ab3 b3 gb3] [e3 _ _ e3] [- e3!2 -] [- a3] [ab3 _ e3 gb3]>*4"],
+  [4, "<a3 _ _ [a3 -] -!3 db4 ab3 _ _ [ab3 -] -!3 a3 e3 _ _ [e3 -] -!2 [gb ab _ _] _ e3 _ _ [e3 -] -!2 g3 ab3>*8"],
+  [6, "<a3 _ _ [a3 -] - b3 db4 e4 ab3 _ _ [ab3 -] - eb4 d4 a3 e3 _ _ _ _ _ _ _ e4 _ _ _ _ _ _ _ -!16>*8"],
+)
+$: note(bass).s("gm_electric_bass_finger").transpose(-24).release(0.01).gain(0.3)
