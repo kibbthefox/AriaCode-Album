@@ -1,0 +1,17 @@
+
+setcpm(118/4)
+
+piano1: note("<[c4, eb4, g4, bb4] - [c4, eb4, g4, bb4] -  [d4, eb4, g4] - [d4, eb4, g4] [c4, eb4, f4] _ _ _ c4 c4 d4 eb4 f4>*8")
+  .s("steinway").transpose(0).release(0.3).gain(0.2)
+
+piano2: note("<c3 _ _ c3 bb3 _ _ ab3 _ _ _ _ _ _ [ab3,c4] _>*8").s("steinway")
+  .transpose(0).release(0.3).gain(0.2)
+
+epiano: note("<[c3,c4,eb4,g4,bb4] _ _ _ [bb2,bb3,d4, eb4, g4] _ _ [ab2,ab3,c4, eb4, f4] _ _ _ _ _ _ [ab2,ab3,c4, eb4, f4] _ >*8")
+  .s("gm_epiano1:2").transpose(12).gain(0.2)
+
+bass: note("<c2 _ c2 _ bb1 _ bb1 ab1 _ _ _ _ _ _ ab1 _>*8").s("gm_electric_bass_finger").dist(0.4).gain(0.4)
+
+bd: s("<bd - - - - bd - - bd - - - - bd - ->*8").s("akaixr10_bd").dist(1).gain(0.6)
+sd: s("<- - sd - - - sd - - - sd [- sd] - - sd ->*8").s("bossdr550_sd").gain(0.6).dist(0.7).delay(0.3).delaytime(1/4)
+rd: s("rd*8").s("linn_rd").gain(0.2)
