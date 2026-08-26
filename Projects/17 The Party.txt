@@ -1,0 +1,20 @@
+
+setcpm(25)
+
+Chords: chord("<AM EM BM _>")
+  .voicing().s("gm_epiano2").transpose(2)
+
+Bass: note("<A1 A2 _ A1 A2 _ _ _ E2 B2 _ E2 B2 _ _ _ B1 B2 _ B1 B2 _ _ _ B1 B2 _ B1 B2 _ _ _ >*8")
+  .s("gm_electric_bass_finger").transpose(-10).dist(1).gain(.4)
+
+melody: note("<B2 - - - - - ab2 gb2 - - - - gb2 ab2 - B1 - - - - - - - - - - - - - - - ->*8")
+  .transpose(9).s("gm_tinkle_bell").release(2).gain(1)
+
+response: note("<- - - - - - - - - - - - - - - - [db3 ab3] [- f3] [- db4] [- ab3] - f4 - - [db3 ab3] [- f3] [- db4] [- ab3] - f4 - ->*8")
+  .s("pulse").release(0.5).gain(.5)
+
+bd: s("bd bd - - - bd - -").s("9000_bd")
+
+sd: s("<- sd>*4").s("9000_sd")
+
+hh: s("hh*8").gain(0.6)
