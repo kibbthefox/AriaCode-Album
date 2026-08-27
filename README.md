@@ -65,10 +65,13 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 17. The Party
 
     [Code](https://strudel.cc/#CnNldGNwbSgyNSkKCkNob3JkczogY2hvcmQoIjxBTSBFTSBCTSBfPiIpCiAgLnZvaWNpbmcoKS5zKCJnbV9lcGlhbm8yIikudHJhbnNwb3NlKDIpCgpCYXNzOiBub3RlKCI8QTEgQTIgXyBBMSBBMiBfIF8gXyBFMiBCMiBfIEUyIEIyIF8gXyBfIEIxIEIyIF8gQjEgQjIgXyBfIF8gQjEgQjIgXyBCMSBCMiBfIF8gXyA%2BKjgiKQogIC5zKCJnbV9lbGVjdHJpY19iYXNzX2ZpbmdlciIpLnRyYW5zcG9zZSgtMTApLmRpc3QoMSkuZ2FpbiguNCkKCmNhbGw6IG5vdGUoIjxCMiAtIC0gLSAtIC0gYWIyIGdiMiAtIC0gLSAtIGdiMiBhYjIgLSBCMSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtPio4IikKICAudHJhbnNwb3NlKDkpLnMoImdtX3RpbmtsZV9iZWxsIikucmVsZWFzZSgyKS5nYWluKDEpCgpyZXNwb25zZTogbm90ZSgiPC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gW2RiMyBhYjNdIFstIGYzXSBbLSBkYjRdIFstIGFiM10gLSBmNCAtIC0gW2RiMyBhYjNdIFstIGYzXSBbLSBkYjRdIFstIGFiM10gLSBmNCAtIC0%2BKjgiKQogIC5zKCJwdWxzZSIpLnJlbGVhc2UoMC41KS5nYWluKC41KQoKYmQ6IHMoImJkIGJkIC0gLSAtIGJkIC0gLSIpLnMoIjkwMDBfYmQiKQoKc2Q6IHMoIjwtIHNkPio0IikucygiOTAwMF9zZCIpCgpoaDogcygiaGgqOCIpLmdhaW4oMC42KQo%3D)
-18. Star
+18. Stay
+
+    [Code](https://strudel.cc/#CnNldGNwbSgxMykKCkNob3Jkczogbm90ZSgiPFtnMyxiMyxkNCxnNCxiNF0gW2IzLGQ0LGdiNCxiNF0gW2M0LGU0LGc0LGM1XSBbYzQsZTQsZzQsYjRdPioyIikKICAudHJhbnNwb3NlKC0zNikucm9vbSgxKQoKQ2hvcmRzMjogbm90ZSgiPFtnMyxiMyxkNCxnNCxiNF0gW2IzLGQ0LGdiNCxiNF0gW2M0LGU0LGc0LGM1XSBbYzQsZTQsZzQsYjRdPioyIikKICAucygiZ21fbGVhZF83X2ZpZnRocyIpLnRyYW5zcG9zZSgwKS5yb29tKDEpLmdhaW4oMC4xKQoKX1JvY2tDaG9yZHM6IG5vdGUoIjxbZzMsYjMsZDQsZzQsYjRdIFtiMyxkNCxnYjQsYjRdIFtjNCxlNCxnNCxjNV0gW2M0LGU0LGc0LGI0XT4qMiIpCiAgLnMoImdtX2VsZWN0cmljX2d1aXRhcl9jbGVhbiIpCgpCYXNzMTogbm90ZSgiPGcyIGIyIGMzIF8gZzIgYjIgYzIgXz4qMiIpCiAgLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikudHJhbnNwb3NlKC0xMikKCl9CYXNzMjogbm90ZSgiPGcyIGcyIGIyIGIyIGMzIGMzIGIyIGIyIGcyIGcyIGIyIGIyIGMzIGMzIGIyIGIyID4qNCIpCiAgLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikudHJhbnNwb3NlKC0xMikKCl9CYXNzMzogbm90ZSgiPFtnMyBnMl0hMiBbYjMgYjJdITIgW2M0IGMzXSEyIFtiMyBjM10hMiA%2BKjQiKQogIC5zKCJnbV9lbGVjdHJpY19iYXNzX2ZpbmdlciIpLnRyYW5zcG9zZSgtMjQpCgptZWxvZHk6IG5vdGUoIjxbZzQgZ2I0IGQ0IGc0XSBbZ2I0IGQ0IGc0IGdiNF0gW2c0IGdiNCBkNCBnNF0gW2diNCBkNCBnYjQgZzRdIFstIGE0XSAtIFtnNCBhNF0gW2I0IF8gZDUgZzRdPio0IikKICAudHJhbnNwb3NlKDApLnMoImdtX2VwaWFubzIiKS5yb29tKDAuNCkKCmFycDogbm90ZSgiPGc0IGI0IGQ1IGc0IGI0IGQ1IGc0IGI0IGQ1IGdiNSBiNSBkNSBnYjUgYjUgZDUgZ2I1IGM1IGU1IGM2IGM1IGU1IGM2IGM1IGU1IGI1IGM1IGU1IGI1IGM1IGU1IGI1IGU1PioxNiIpCiAgLnMoImdtX29yY2hlc3RyYWxfaGFycCIpLmRpc3QoMikuZ2FpbigwLjIpCgpiZDogcygiYmQgLSAtIC0gYmQgYmQgLSAtIikucygiYWthaWxpbm5fYmQiKQoKc2QxOiBzKCItIC0gc2QgLSAtIC0gLSAtIikucygicjhfc2QiKQoKaGg6IHMoImhoIGhoIGhoIGhoIGhoIGhoIC0gLSIpLmdhaW4oMC40KQoKX3JkOiBzKCJyZCByZCByZCByZCByZCByZCByZCByZCIpLmdhaW4oMC40KS5zKCJyb2xhbmR0cjkwOV9yZCIpCgpfc2QyOiBzKCItIC0gc2QgLSAtIC0gc2QgLSIpLnMoInI4X3NkIik%3D)
+19. Star
 
     [Code](https://strudel.cc/#CnNldGNwbSgyMikKCi8vRHJ1bXMgaW5zcGlyZWQgYnkgJ2VhcmluZ3MnIGJ5IG1hbGNvbSB0b2RkCgpjaG9yZHM6IGNob3JkKCI8RE03IEMjTSBGI203IEFNNz4iKS52b2ljaW5nKCkucygiZ21fcGFkX2Nob2lyIikucGFuKDAuNSkucmVsZWFzZSgwKS5nYWluKDAuOSkKCgpfYmFzc2E6IG5vdGUoIjxkMiE3IFtkMiAtIC0gLV0gYyMyITcgW2MjMiAtIC0gLV0gRiMxITcgW0YjMSAtIC0gLV0gYTEhNyBbYTEgLSAtIC1dPio4IikucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5nYWluKDEuNCkKCmJhc3NiOiBub3RlKCI8ZDIhOCBjIzIhOCBGIzEhOCBhMSE4ID4qOCIpLnMoImdtX2VsZWN0cmljX2Jhc3NfZmluZ2VyIikuZ2FpbigxLjQpCgoKZHVhbG1lbG9keW9uZTogbm90ZSgiPGExIF8gXyBfIGExIGIxIGRiMiBlMiBfIF8gZGIyIF8gYjEgZGIyIGIxIGFiMSBkYjIgXyBfIF8gXyBlMiBmIzIgYTIgXyBfIGYjMiBfIGUyIGRiMiBfIGFiMT4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC40KQoKZHVhbG1lbG9keXR3bzogbm90ZSgiPGQxIF8gXyBfIGQxIGUxIGQxIGRiMSBfIF8gXyBjMSBkYjEgZDEgZGIxIGIwIGEwIF8gXyBfIF8gXyBhMCBlMSBfIF8gZGIxIF8gYjAgZGIxIGIwIGFiMD4qOCIpCiAgLnMoInRyaWFuZ2xlIikuZ2FpbigxLjUpLnJlbGVhc2UoMC42KS5wYW4oMC42KQoKCl9raWNrYTogbm90ZSgiYzIgYzIgYzIgYzIgYzIgYzIgYzIgW2MyIC0gLSAtXSIpLnMoImFrYWltcGM2MF9iZCIpCgpraWNrYjogcygiYmQgYmQgLSAtIC0gYmQgLSAtIikucygiYWthaW1wYzYwX2JkIikuZ2FpbigwLjcpCnNuYXJlOiBzKCItIC0gc2QgWy0gc2RdIFstIHNkXSAtIHNkIC0iKS5zKCJjaXJjdWl0c3RvbV9zZCIpLmdhaW4oMC41KQpoaWhhdDogcygiaGggaGggaGggaGggaGggLSBoaCBoaCIpLnMoInNyMTZfaGgiKQpvcGVuaGF0OiBub3RlKCItITUgYzIgLSEyIikucygiYm9zc2RyNTUwX29oIikucmVsZWFzZSgwKQo%3D)
-19. I Won't
+20. I Won't
 
     [Code](https://strudel.cc/#CnNldGNwbSgxNTAvNCkKCmxldCBwaWFubz1hcnJhbmdlKAogIFsyLCAiPGMzIGM0IFtlNCxnNCxiNF0gZzMgYzQgW2U0LGc0LGI0XSBjMyBjNCBbZWI0LGdiNCxiNF0gZzMgYzQgW2ViNCxnYjQsYjRdIFtnMyxnNF0gW2diMyxnYjRdIFtnMyxnNF0gYTQ%2BKjgiXSwKICBbMiwgIjxnMiBnMyBbYjMsZDQsZ2I0LGE0XSBkMyBnMyBbYjMsZDQsZ2I0LGE0XSBnMiBnMyBbYjMsZDQsZ2I0LGI0XSBkMyBnMyBbYjMsZDQsZ2I0LGE0XSBnMiBnMyBbYjMsZDQsZ2I0LGE0XSBiND4qOCJdCikKJDogbm90ZShwaWFubykucygic3RlaW53YXkiKS5yZWxlYXNlKDAuMSkuc3dpbmdCeSgxLzMsIDQpLnRyYW5zcG9zZSgxMikuZ2FpbigwLjMpCgpsZXQgY2hvcmRzPWFycmFuZ2UoCiAgWzEsICI8W2M0LGU0LGc0LGI0IF8gXyBfIF8gYTQgXyBfXSBbZzMsYjMsZDQsZ2I0LGI0IF8gXyBfIF8gYTQgXyBfXT4qMS8yIl0KKQokOiBub3RlKGNob3JkcykucygiZ21fZXBpYW5vMToxIikKCmxldCBiYXNzPWFycmFuZ2UoCiAgWzgsICI8YzIgXyBfIF8gXyBiMSBfIF8gZzEgXyBfIF8gXyBfIF8gXyBjMSBfIF8gXyBfIGIxIF8gXyBnMSBfIF8gXyBfIF8gXyBfID4qNCJdLAopCiQ6IG5vdGUoYmFzcykucygiZ21fZWxlY3RyaWNfYmFzc19maW5nZXIiKS5kaXN0KDEpLmdhaW4oMC40KQoKbGV0IG1lbG9keT1hcnJhbmdlKAogIFs0LCAiPGc1IF8gLSAtIC0gLSBnYjUgZDUgXyAtIC0gLSAtIC0gYzUgYjQgXyAtIC0gLSAtIC0gYjQgYzUgXyAtIC0gLSAtIC0gYzUgYjQ%2BKjgiXSwKICBbNCwgIjwtIC0gLSAtIC0gLSBhNCBiNCBfIC0gLSAtIC0gLSBhNCBnNCBfIC0gLSAtIC0gLSBnNCBkNSBfIC0gLSAtIC0gLSBkNSBnNT4qOCJdCikKJDogbm90ZShtZWxvZHkpLnMoImdtX211c2ljX2JveDoxIikuc3dpbmdCeSgxLzMsIDQpLnJlbGVhc2UoMS41KQoKbGV0IHN0cmluZz1hcnJhbmdlKAogIFsxLCAiPGQ0IGc0IGI0IGQ1IGc1IGE1IGQ2IFtnYjYgZzZdIGE2IGQ3IGdiNyBnNz4qMS80Il0KKQokOiBub3RlKHN0cmluZykucygiZ21fc3RyaW5nX2Vuc2VtYmxlXzEiKS5yZWxlYXNlKDEyMCkuZ2FpbigwLjQp)
 
@@ -77,11 +80,11 @@ You can listen on the [Website](https://kibbthefox.github.io/AriaCode-Album/), [
 
 This section exists for the person reviewing my hackclub ship because [my hackatime project](https://hackatime.hackclub.com/@KibbTheFox/project/AriaCode+Album) disagrees with lapse on how many lapse hours I did, because I forgot to record an hour of making a song, and even more reasons.
 
-Total - 31.6 hrs atm
+Total - 32.6 hrs atm
 
-Tracks - 25.6 hrs atm
+Tracks - ~26.3 hrs
 
-Website/README/Album Cover/Video Editing/Other - 6 hrs atm
+Website/README/Album Cover/Video Editing/Other - 6.2 hrs atm
 
 [Link to Spreadsheet](https://docs.google.com/spreadsheets/d/19dBQ6f_PN_KugjUGHorNQWijqjCbQj82--NOKYsRpz8/edit?usp=sharing)
 
@@ -193,7 +196,7 @@ It will live in you and me
 
 Come and join the party
 
-### 18. Star
+### 19. Star
 
 I try with all my might but it is just so hard to fight
 
@@ -227,7 +230,7 @@ You're a sta-, you're a sta-
 
 You're a star
 
-### 19. I Won't
+### 20. I Won't
 
 I won't give up, and I won't give up, and I won't back down, and I won't give up 
 
@@ -243,7 +246,7 @@ And I won't give up, and I won't give up, and I won't back down, and I won't giv
 
 ## Credits/Inspiration
 
-The song 'Connect' was heavily inspired by a instagram reel I saw. The song 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'In Your Head' takes a melody from the song 'Now' by UNIT_13. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall. The song 'I Won't' has a melody inspired by a melody in the song 'If I Really' by lando! and has strings inspired by 'itsbeenalongtime' by bloodrings (also known as lando!).
+The song 'Connect' was heavily inspired by a instagram reel I saw. The song 'Something' contains a melody inspired by a melody in the song 'My Head' by lando! The original song of 'Somehow (Cover)' is made by UNIT_13. The original song of 'Eclipse (Cover)' is made by Pink Floyd. The song 'In Your Head' takes a melody from the song 'Now' by UNIT_13. The song 'Stay' is heavily inspired by the song 'Those Boys (Twin Fantasy)' by Car Seat Headrest. The song 'Star' has drums inspired by the song 'Earrings' by Malcom Todd and lyrics inspired by the song 'Spring and a Storm' by Tally Hall. The song 'I Won't' has a melody inspired by a melody in the song 'If I Really' by lando! and has strings inspired by 'itsbeenalongtime' by bloodrings (also known as lando!).
 
 ## Images
 

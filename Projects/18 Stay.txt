@@ -1,0 +1,36 @@
+
+setcpm(13)
+
+Chords: note("<[g3,b3,d4,g4,b4] [b3,d4,gb4,b4] [c4,e4,g4,c5] [c4,e4,g4,b4]>*2")
+  .transpose(-36).room(1)
+
+Chords2: note("<[g3,b3,d4,g4,b4] [b3,d4,gb4,b4] [c4,e4,g4,c5] [c4,e4,g4,b4]>*2")
+  .s("gm_lead_7_fifths").transpose(0).room(1).gain(0.1)
+
+_RockChords: note("<[g3,b3,d4,g4,b4] [b3,d4,gb4,b4] [c4,e4,g4,c5] [c4,e4,g4,b4]>*2")
+  .s("gm_electric_guitar_clean")
+
+Bass1: note("<g2 b2 c3 _ g2 b2 c2 _>*2")
+  .s("gm_electric_bass_finger").transpose(-12)
+
+_Bass2: note("<g2 g2 b2 b2 c3 c3 b2 b2 g2 g2 b2 b2 c3 c3 b2 b2 >*4")
+  .s("gm_electric_bass_finger").transpose(-12)
+
+_Bass3: note("<[g3 g2]!2 [b3 b2]!2 [c4 c3]!2 [b3 c3]!2 >*4")
+  .s("gm_electric_bass_finger").transpose(-24)
+
+melody: note("<[g4 gb4 d4 g4] [gb4 d4 g4 gb4] [g4 gb4 d4 g4] [gb4 d4 gb4 g4] [- a4] - [g4 a4] [b4 _ d5 g4]>*4")
+  .transpose(0).s("gm_epiano2").room(0.4)
+
+arp: note("<g4 b4 d5 g4 b4 d5 g4 b4 d5 gb5 b5 d5 gb5 b5 d5 gb5 c5 e5 c6 c5 e5 c6 c5 e5 b5 c5 e5 b5 c5 e5 b5 e5>*16")
+  .s("gm_orchestral_harp").dist(2).gain(0.2)
+
+bd: s("bd - - - bd bd - -").s("akailinn_bd")
+
+sd1: s("- - sd - - - - -").s("r8_sd")
+
+hh: s("hh hh hh hh hh hh - -").gain(0.4)
+
+_rd: s("rd rd rd rd rd rd rd rd").gain(0.4).s("rolandtr909_rd")
+
+_sd2: s("- - sd - - - sd -").s("r8_sd")
